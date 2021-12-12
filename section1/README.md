@@ -1,9 +1,9 @@
-# Section 1: Super Learners
+# Section 1: ASKING QUESTIONS, Terminal and Ruby Foundations
 
 Section 1 is estimated to take a total of 6-10 hours to complete. Part C is the longest and most time intensive. This section of pre-work involves reading (both from this document as well as the 📒John Duckett book), 👩‍💻exercises, and 📝reflection questions. Make sure to manage your time well so that should you get stuck and need help, you have plenty of time to do so and meet the deadline.
 
 - [Vocabulary](#Vocabulary)
-- [Part A: Super Learner Habits](#Part-A-Super-Learner-Habits)
+- [Part A: Asking Questions](#Part-A-Asking-Questions)
 - [Part B: Terminal](#Part-B-Terminal)
 - [Part C: Ruby Foundations](#Part-C-Ruby-Foundations)
 
@@ -18,7 +18,7 @@ Here's what we ask you do:
 - When you start a new section of pre-work, write down each term. Leave plenty of space for (future) notes
 - As you read and work through the material you will come across definitions and build an understanding of these terms. Write in definitions, draw diagrams, write out relevant code snippets, etc. If you complete a section and don't have a grasp on a term, that's when it's time to reach out to your pre-work small group or cohort, and collaborate!
 
-### Vocabulary Terms
+### Vocabulary
 
 - command
 - directory
@@ -28,13 +28,23 @@ Here's what we ask you do:
 - Boolean
 - variable
 - assignment operator
-- re-assignment (of a variable)
+- re-assignment
 - interpolation
 
+## Part A Asking Questions
 
-## Part A Super Learner Habits
+If you've made it into Section 2 of the pre-work, we hope that you've heard us say loud and clear, that asking questions is a good and important thing to do! That doesn't mean it's easy, though. Some of us have educational experiences that tell us otherwise, some of us have had bad experiences when being vulnerable and asking questions, and sometimes it's just hard to determine which words to use to formulate the question itself!
 
-Read [this article](https://pubs.ppai.org/pc-today/six-habits-of-super-learners/) about the habits of Super Learners. Reflect on this - what do you already do? Does this make you want to do anything new or different as you beginthis learning journey? Jot down your notes now, and we will ask you to share some reflections with your small group at the end of this section.
+Read the three blog posts that follow:
+* [It's okay to ask questions](https://dev.to/mporam/its-okay-to-ask-questions-43hf)
+* [Asking better questions](https://dev.to/josefine/asking-better-questions-2e2k)
+* [Your Questions Are Dumb; Ask Them Anyway](https://dev.to/kathryngrayson/your-questions-are-dumb-ask-them-anyway-3cm6)
+
+Reflect on these posts, and how you feel about asking questions (specifically, technical questions as you enter your technical work at Turing). How might this positively or negatively impact your growth? 
+
+It's going to take some time to find that balance between googling and pushing yourself to solve a problem without hand-holding, and reaching out for help. That's ok! be patient with yourself. The way you will find that balance is by being cognizant and aware of how you currently operate. Keep this on your mind as you work through this section, and... there is no time like the present to start asking questions!
+
+Now that you understand the importance of asking questions, read the [Turing guide on asking questions](https://gist.github.com/ericweissman/fb0241e226227867b6bc70a4d49227f5) to ensure that you know the best way to ask the questions you may have!
 
 ## Part B Terminal
 
@@ -111,7 +121,7 @@ In this section, you will begin to learn the basics of Ruby. You will work throu
 
 At the end of the section, you will use several Git commands to save your work to your local Git repository. Then you will push your updates to your remote GitHub repository. For now, we are building muscle memory with git commands and getting used to seeing what output they produce. We will dive deeper into the inner workings of Git later. For now, all you need to do is follow along and know that we are using Git to save our work, and GitHub to put it on the internet.
 
-### Open your local copy of backend-mod-1-prework in Atom
+### Open your local copy of this repo in Atom
 
 Using your terminal, open the local copy of this repository. To do this, enter these commands into your terminal (this may vary slightly depending on the names of your directories):
 
@@ -122,7 +132,7 @@ cd turing
 ls
 cd 0module
 ls
-cd backend-mod-1-prework
+cd <name-of-repo>
 ls
 cd section1
 ls
@@ -167,6 +177,7 @@ This will open the `section1` directory in Atom. You should be able to see the d
 1. Work through the [Strings](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#3.-strings) and [Numbers](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#5.-numbers) sections from Ruby in 100 Minutes. For each of these sections, open an `irb` session by typing `irb` into your terminal and type in the code snippets provided.
 
 ## Exercises
+
 - Each section contains an exercises directory containing files where you will practice writing code.
 
 Work through the files in the section1/exercises directory.  Complete them in this order:
@@ -178,11 +189,11 @@ Work through the files in the section1/exercises directory.  Complete them in th
 1. interpolation
 1. loops
 
-## Questions
-- Each day contains a reflections.md file where you will answer questions about what you have learned.
+## Reflections
 
-Answer the day 1 questions within the reflections.md file. The `.md` file extension refers to markdown formatting. Markdown is a simple markup language to help format your text. [This article](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) shows everything you need for basic markdown formatting.
+- Each section contains a reflections.md file where you will answer questions about what you have learned.
 
+Answer the Section 1 questions within the `reflections.md` file. The `.md` file extension refers to markdown formatting. Markdown is a simple markup language to help format your text. [This article](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) shows everything you need for basic markdown formatting.
 
 ## Save your work in Git
 
@@ -266,7 +277,7 @@ You should now be able to log in to GitHub, navigate to your remote prework repo
 ## Index Links
 
 - [Vocabulary](#Vocabulary)
-- [Part A: Super Learner Habits](#Part-A-Super-Learner-Habits)
+- [Part A: Asking Questions](#Part-A-Asking-Questions)
 - [Part B: Terminal](#Part-B-Terminal)
 - [Part C: Ruby Foundations](#Part-C-Ruby-Foundations)
 
