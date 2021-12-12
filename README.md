@@ -6,10 +6,9 @@ Each day has a folder containing a `README.md` file with instructions for the se
 
 ### Pre-work Index
 
-* [Section 1 - SUPER LEARNERS, Terminal and Ruby Foundations](section1)
-* [Section 2 - ASKING QUESTIONS, Conditionals and Methods](section2)
-* [Section 3 - GROWTH MINDSET, Hashes](section3)
-* [Section 4 - HOW YOU USE YOUR TIME, Objects and Classes](section4)
+* [Section 1 - ASKING QUESTIONS, Terminal and Ruby Foundations](section1)
+* [Section 2 - GROWTH MINDSET, Conditionals](section2)
+* [Section 3 - HOW YOU SPEND YOUR TIME, Arrays & Hashes](section3)
 * [Final Prep - Final Deliverables and Submission](final_prep)
 
 ## What to Expect
@@ -34,9 +33,12 @@ Before we can experiment with coding out the concepts we will learn in Mod0, we 
 
 Follow this guide step-by-step to make sure you have everything you need, then you will be ready to start your first day of work!
 
-***Before proceeding***, if you have not already, complete the [mod-0 environment setup instructions](http://mod0.turing.io/setup-instructions) to install Atom, xcode-select, Homebrew, git, and Chrome.
+***Before proceeding***, if you have not already, complete the [mod-0 environment setup instructions](http://mod0.turing.io/setup-instructions) to install Atom, xcode-select, Homebrew, rbenv, Git, and Chrome.
 
-<!-- We will cover the following:
+<!-- 
+ADD TO INITIAL SETUP
+
+We will cover the following:
 
 *   [Installing Rbenv - a Ruby Version Manager](#set-up-ruby-environment-manager-rbenv)
 *   [Installing Ruby Versions using Rbenv](#use-rbenv-to-install-a-certain-version-of-ruby)
@@ -180,10 +182,9 @@ $ rbenv rehash
 ## Terminal
 
 We will be referencing many terminal commands throughout the prework. It is recommended that you practice using terminal commands before getting started with section1. -->
-<!-- 
-[Check out section 1 to practice!](section1) -->
 
-### Forking the Module 1 Prework Repository
+
+### Forking This Repository
 
 Next, we are going to *fork this repository that you're reading right now*. Forking is when you copy a Github repository to your Github account to make your own changes. Think of it like a fork in the road -- you're about to make changes that differ from the main path.
 
@@ -242,18 +243,17 @@ On branch main
 nothing to commit, working tree clean
 ```
 
-From here on out, all the work you do will be in your personal copy of this repository. Throughout Mod 0, we may call this your "prework repository" or "backend prework"... this refers to your forked copy of this `backend_mod_1_prework` repository that you have just now cloned to your device.
+From here on out, all the work you do will be in your personal copy of this repository. Throughout Mod 0, we may call this your "prework repository" or "backend prework"... this refers to your forked copy of this repository that you have just now cloned to your device.
 
 ### IMPORTANT NOTE - PLEASE READ CAREFULLY
-Do **NOT** work directly in the Github interface or use the `Edit` button to work directly from the Github version of your prework repository! 
+Do **NOT** work directly in the GitHub interface or use the `Edit` button to make changes from the GitHub version of your prework repository! 
 
-Instead, add your work in your text editor (Atom) on your local machine (laptop) - your prework involves using `git` to track changes and push your work up to Github. We will cover how to do this in Mod 0 AND we give explicit instructions on how to do this in each section of the prework!
+Instead, add your work in your text editor (Atom) on your local machine (laptop) - your prework involves using `git` to track changes and push your work up to GitHub. We will cover how to do this in Mod 0 AND we give explicit instructions on how to do this in each section of the prework!
 
 ## Get Started
 
-Each day's `README` will walk you through the necessary steps to save your work.
+Each sections's `README` will walk you through the necessary steps to save your work.
 
 To begin, open your terminal and `cd` into the `section1` directory. Follow the instructions contained in the `README.md` file, and have fun experimenting!
 
 ----------------------------------
-
