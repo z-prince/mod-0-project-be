@@ -54,11 +54,11 @@ As part of Turing's project-based learning approach, you will often be working i
 - [ ] Complete the [DTR Guiding Questions](https://gist.github.com/ericweissman/c56f3a98cdce761808c21d498a52f5c6)
   - [ ] Add a link to your gist here: 
 
-## All Done? How to Submit your Mod 1 Prework
+## Mod 0 Project Submission
 
-When you have completed *all* the activities described above, follow the steps below to submit your technical prework.
+When you have completed *all* the activities described above, follow the steps below to submit your Mod 0 Project.
 
-1. Go to *your* prework repository on GitHub
+1. Go to *your* project repository on GitHub
 1. Click on `New Pull Request` per the image below:
 
 ![new pull request](/images/be_s1.png)
@@ -74,11 +74,11 @@ When you have completed *all* the activities described above, follow the steps b
 
 ![new pull request](/images/be_s3.png)
 
-5. Please complete the form to submit your prework available [here](https://forms.gle/wxoVuhHKjrRyvGW2A). Be sure to include links for your Gear Up pre-work gist and your technical pre-work GitHub repository. The link to your technical pre-work GitHub repository will be in the format https://github.com/YOUR_GITHUB_USERNAME/frontend-mod-1-prework. (using _your_ own GitHub username)
+5. Please complete the form to submit your project available [here](https://forms.gle/wxoVuhHKjrRyvGW2A). Be sure to include links for your Gear Up pre-work gist and your Mod 0 Project GitHub repository. The link to your Mod 0 Project GitHub repository will be in the format https://github.com/YOUR_GITHUB_USERNAME/mod-0-project-be. (using _your_ GitHub username)
 
 ## Next Steps
 
-As you wrap up Mod 0, this is an important time to take care of life things such as doctor appointments, dog park trips, quality time with friends and family, etc. It is also important that you maintain the knowledge and skills you acquired during Mod 0 and this pre-work. You can absolutely do both, but to do so successfully, **you need a plan**. We recommend spending, on average, 1-2 hours a day coding (totally 20-40 hours of time).
+As you wrap up Mod 0, this is an important time to take care of life things such as doctor appointments, dog park trips, quality time with friends and family, etc. It is also important that you maintain the knowledge and skills you acquired during Mod 0 and this project. You can absolutely do both, but to do so successfully, **you need a plan**. We recommend spending, on average, 1-2 hours a day coding (totally 20-40 hours of time).
 
 What is your plan and how are you going to hold yourself to it? Specifically...
 - What are you going to work on? [Resources here](https://github.com/turingschool-examples/fe-m1-practice)

@@ -1,10 +1,10 @@
-# Backend Mod 1 Pre-work Repository
+# Mod 0 Project Guide - Back End
 
-This repository will walk you through the Mod 1 Pre-work for the Backend program at Turing.
+This repository will walk you through the Mod 0 Project for the Back End program at Turing.
 
 Each day has a folder containing a `README.md` file with instructions for the section, exercises, and questions. Please complete all the exercises and questions, as well as lessons listed in the section's README.
 
-### Pre-work Index
+### Project Index
 
 * [Section 1 - ASKING QUESTIONS, Terminal and Ruby Foundations](section1)
 * [Section 2 - GROWTH MINDSET, Conditionals](section2)
@@ -13,7 +13,7 @@ Each day has a folder containing a `README.md` file with instructions for the se
 
 ## What to Expect
 
-Through completing this pre-work, you can expect to get practice re-inforcing what you learned/are learning in Mod 0, learn more technical content, and deeply reflect on your mindsets and habits and start thinking about which of those mindsets and habits will help you learn to code, and which of those you may need to change.
+Through completing this project, you can expect to get practice reinforcing what you learned/are learning in Mod 0, learn more technical content, and deeply reflect on your mindsets and habits and start thinking about which of those mindsets and habits will help you learn to code, and which of those you may need to change.
 
 We will remind you of the best practices that follow from time-to-time, but to ground yourself in the work ahead, read them carefully.
 
@@ -23,7 +23,7 @@ We will remind you of the best practices that follow from time-to-time, but to g
 
 **Process over Product.** When asking for help, do your best to seek understanding rather than `the answer` or `the solution`. Even if your helper gets you a solution that works, make sure to spend time on *why* it works, rather than just accepting the solution and moving on.
 
-**Type every line of code.** One of the best things you can do to set yourself for success is to make sure you type out all the code examples you see in the readings and exercises in this pre-work, *do not* copy and paste. The more hands-on-keyboard practice you can give yourself, the better. Copying and pasting won't help you solidify these concepts, manually typing all the code in will. This also applies to auto complete features in popular text editors. They are helpful, no doubt, but doing things the hard way at the beginning is a great way to hone your workflow later on.
+**Type every line of code.** One of the best things you can do to set yourself for success is to make sure you type out all the code examples you see in the readings and exercises in this project, *do not* copy and paste. The more hands-on-keyboard practice you can give yourself, the better. Copying and pasting won't help you solidify these concepts, manually typing all the code in will. This also applies to auto complete features in popular text editors. They are helpful, no doubt, but doing things the hard way at the beginning is a great way to hone your workflow later on.
 
 **Details matter.** Pay close attention to small details in syntax, spacing, and language. The most detailed oriented you are as you're working, the more reliable and well-crafted your code will be. In programming, being detail oriented helps cut down on buggy code and difficult to use systems. It can also help you notice differences in your code, enabling you to identify typos and mistakes more quickly.
 
@@ -38,14 +38,6 @@ Follow this guide step-by-step to make sure you have everything you need, then y
 <!-- 
 ADD TO INITIAL SETUP
 
-We will cover the following:
-
-*   [Installing Rbenv - a Ruby Version Manager](#set-up-ruby-environment-manager-rbenv)
-*   [Installing Ruby Versions using Rbenv](#use-rbenv-to-install-a-certain-version-of-ruby)
-*   [Terminal](#terminal) -->
-*   [Forking and Cloning the Prework Repository](#forking-the-module-1-prework-repository)
-
-
 <!-- First, let's get a Ruby version management tool on our machines. -->
 <!-- 
  ## Set up Ruby Environment Manager: [rbenv](https://github.com/rbenv/rbenv#homebrew-on-mac-os-x) -->
@@ -59,8 +51,6 @@ Additionally, very useful tools called "gems" are out there that were created sp
 To solve potential compatability issues, we'd like to be able to install and manage multiple versions of Ruby on our system. We would also like to be able to use gems across different versions of Ruby. These are the kinds of things `rbenv` handles. -->
 
 <!-- ### Installation
-
-#### NOTE: If you have any issues with the `rbenv` setup, please message Eric Weissman on slack (@ericweissman) and we will address your issues at a later date! You're system version of ruby will work fine for your Prework exercises!
 
 Here is a video walk-through that may be helpful for the following steps. Check it out!
 
@@ -178,23 +168,19 @@ Now, let's make your terminal aware of this update with command:
 ```
 $ rbenv rehash
 ```
-
-## Terminal
-
-We will be referencing many terminal commands throughout the prework. It is recommended that you practice using terminal commands before getting started with section1. -->
-
+-->
 
 ### Forking This Repository
 
 Next, we are going to *fork this repository that you're reading right now*. Forking is when you copy a Github repository to your Github account to make your own changes. Think of it like a fork in the road -- you're about to make changes that differ from the main path.
 
-In this scenario, the [Turing Github account](https://github.com/turingschool) owns this `backend_mod_1_prework` repository. You do not have permission to change anything in this repository, so you need your own copy to work on.
+In this scenario, the [Turing Github account](https://github.com/turingschool) owns this `mod-0-project-be` repository. You do not have permission to change anything in this repository, so you need your own copy to work on.
 
 In order to fork the repository, follow these steps:
 
 ####  1. Make sure you are logged in to GitHub (if you are not logged in, log in and come back to this page)
 
-####  2. You'll want to find this repository's Fork button. Scroll to the top of *this* webpage... yes, [this one](https://github.com/turingschool/backend_mod_1_prework) that you're reading right now!
+####  2. You'll want to find this repository's Fork button. Scroll to the top of *this* webpage... yes, [this one](https://github.com/turingschool/mod-0-project-be) that you're reading right now!
 
 ####  3. Click on `Fork` in the upper right corner of the screen, just under the top banner.
 
@@ -210,9 +196,9 @@ Check [github help](https://help.github.com/en/github/getting-started-with-githu
 
 Now that you have forked this repository, the next thing to do is *clone* your forked repository.
 
-Cloning is when you copy a remote Github repository to your local computer.
+Cloning is when you copy a remote GitHub repository to your local computer.
 
-#### 1. In YOUR `backend_mod_1_prework` repository that your just forked, click on `Clone or Download`
+#### 1. In YOUR project repository that you just forked, click on `Clone or Download`
 
 ![clone your copy](/images/be_step3.png)
 
@@ -230,30 +216,28 @@ $ cd turing
 $ mkdir 0module
 $ cd 0module
 $ git clone <ctrl-v to paste ssh link here >
-Cloning into 'backend_mod_1_prework'...
+Cloning into 'mod-0-project-be'...
 remote: Enumerating objects: 678, done.
 remote: Total 678 (delta 0), reused 0 (delta 0), pack-reused 678
 Receiving objects: 100% (678/678), 237.94 KiB | 851.00 KiB/s, done.
 Resolving deltas: 100% (332/332), done.
 
-$ cd backend_mod_1_prework
+$ cd mod-0-project-be
 $ git status .
 // If everything worked correctly, you should see:
 On branch main
 nothing to commit, working tree clean
 ```
 
-From here on out, all the work you do will be in your personal copy of this repository. Throughout Mod 0, we may call this your "prework repository" or "backend prework"... this refers to your forked copy of this repository that you have just now cloned to your device.
+From here on out, all the work you do will be in your personal copy of this repository. Throughout Mod 0, we may call this your "project repository" or "Mod 0 Project"... this refers to your forked copy of this repository that you have just now cloned to your device.
 
 ### IMPORTANT NOTE - PLEASE READ CAREFULLY
-Do **NOT** work directly in the GitHub interface or use the `Edit` button to make changes from the GitHub version of your prework repository! 
+Do **NOT** work directly in the GitHub interface or use the `Edit` button to make changes from the GitHub version of your project repository! 
 
-Instead, add your work in your text editor (Atom) on your local machine (laptop) - your prework involves using `git` to track changes and push your work up to GitHub. We will cover how to do this in Mod 0 AND we give explicit instructions on how to do this in each section of the prework!
+Instead, add your work in your text editor (Atom) on your local machine (laptop) - your project involves using Git to track changes and push your work up to GitHub. We will cover how to do this in Mod 0 **and** we give explicit instructions on how to do this in each section of the project!
 
 ## Get Started
 
-Each sections's `README` will walk you through the necessary steps to save your work.
+Each sections `README` will walk you through the necessary steps to save your work.
 
 To begin, open your terminal and `cd` into the `section1` directory. Follow the instructions contained in the `README.md` file, and have fun experimenting!
-
-----------------------------------

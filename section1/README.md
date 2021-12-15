@@ -1,6 +1,6 @@
 # Section 1: ASKING QUESTIONS, Terminal and Ruby Foundations
 
-Section 1 is estimated to take a total of 6-10 hours to complete. Part C is the longest and most time intensive. This section of pre-work involves reading (both from this document as well as the 📒John Duckett book), 👩‍💻exercises, and 📝reflection questions. Make sure to manage your time well so that should you get stuck and need help, you have plenty of time to do so and meet the deadline.
+Section 1 is estimated to take a total of 6-10 hours to complete. Part C is the longest and most time intensive. This section of the project involves reading (both from this document as well as the 📒John Duckett book), 👩‍💻exercises, and 📝reflection questions. Make sure to manage your time well so that should you get stuck and need help, you have plenty of time to do so and meet the deadline.
 
 - [Vocabulary](#Vocabulary)
 - [Part A: Asking Questions](#Part-A-Asking-Questions)
@@ -11,12 +11,12 @@ Section 1 is estimated to take a total of 6-10 hours to complete. Part C is the 
 
 If you've talked to any alum or near-alum of Turing, one thing they likely shared is "Turing teaches you how to learn". For creators of tech, the learning never ends. Not after graduating a program, not after 20 years of experience. We will provide more support as you are starting out, then release some of that support so you are equipped to learn on your own once you graduate. While we provide more support at the beginning, we also intentionally support you in building skills and habits that will help you do that successfully.
 
-One of those pieces is in how developers approach vocabulary. Knowing technical vocabulary will allow you to get more out of reading doucmentation and tutorials, and will allow you to communicate well with teams and ask good questions when you need help. Each section of your pre-work (and each lesson once you start Mod 1) will start with a vocabulary section. We don't always give you the definitions - this is intentional. You will create your own definition after having several opportunities to read definitions and see examples.
+One of those pieces is in how developers approach vocabulary. Knowing technical vocabulary will allow you to get more out of reading doucmentation and tutorials, and will allow you to communicate well with teams and ask good questions when you need help. Each section of this project (and each lesson once you start Mod 1) will start with a vocabulary section. We don't always give you the definitions - this is intentional. You will create your own definition after having several opportunities to read definitions and see examples.
 
 Here's what we ask you do:
 - Find a special spot in your notebook for vocabulary and Ruby reserved keywords. Mark it with a post-it or bookmark, so it's easy to find and come back to
-- When you start a new section of pre-work, write down each term. Leave plenty of space for (future) notes
-- As you read and work through the material you will come across definitions and build an understanding of these terms. Write in definitions, draw diagrams, write out relevant code snippets, etc. If you complete a section and don't have a grasp on a term, that's when it's time to reach out to your pre-work small group or cohort, and collaborate!
+- When you start a new section of the project, write down each term. Leave plenty of space for (future) notes
+- As you read and work through the material you will come across definitions and build an understanding of these terms. Write in definitions, draw diagrams, write out relevant code snippets, etc. If you complete a section and don't have a grasp on a term, that's when it's time to reach out to your Mod 0 cohort, and collaborate!
 
 ### Vocabulary
 
@@ -33,7 +33,7 @@ Here's what we ask you do:
 
 ## Part A Asking Questions
 
-If you've made it into Section 2 of the pre-work, we hope that you've heard us say loud and clear, that asking questions is a good and important thing to do! That doesn't mean it's easy, though. Some of us have educational experiences that tell us otherwise, some of us have had bad experiences when being vulnerable and asking questions, and sometimes it's just hard to determine which words to use to formulate the question itself!
+If you've made it into Section 2 of the project, we hope that you've heard us say loud and clear, that asking questions is a good and important thing to do! That doesn't mean it's easy, though. Some of us have educational experiences that tell us otherwise, some of us have had bad experiences when being vulnerable and asking questions, and sometimes it's just hard to determine which words to use to formulate the question itself!
 
 Read the three blog posts that follow:
 * [It's okay to ask questions](https://dev.to/mporam/its-okay-to-ask-questions-43hf)
@@ -143,7 +143,7 @@ This will open the `section1` directory in Atom. You should be able to see the d
 
 ### An Introduction to Ruby
 
-[Read This Introduction](https://learnrubythehardway.org/book/intro.html) to the Learn Ruby The Hard Way Tutorial. To reiterate this introduction, ***DO NOT*** copy and paste code examples when working through lessons in your prework. Actually type each of them out.
+[Read This Introduction](https://learnrubythehardway.org/book/intro.html) to the Learn Ruby The Hard Way Tutorial. To reiterate this introduction, ***DO NOT*** copy and paste code examples when working through each section of the project. Actually type each of them out.
 
 ### Ruby Basics Lessons
 
@@ -268,11 +268,11 @@ Compressing objects: 100% (8/8), done.
 Writing objects: 100% (9/9), 1.03 KiB | 1.03 MiB/s, done.
 Total 9 (delta 2), reused 0 (delta 0)
 remote: Resolving deltas: 100% (2/2), completed with 1 local object.
-To github.com:your-username/frontend_mod_1_prework.git
+To github.com:your-username/mod-0-project-be.git
    e8ebd7a..32c0ed3  main -> main
 ```
 
-You should now be able to log in to GitHub, navigate to your remote prework repository and see all the work you did in this section!
+You should now be able to log in to GitHub, navigate to your project repository, and see all the work you did in this section!
 
 ## Index Links
 

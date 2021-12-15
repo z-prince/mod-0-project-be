@@ -1,6 +1,6 @@
 # Section 2 - GROWTH MINDSET, Conditionals
 
-Section 2 is estimated to take a total of 8-12 hours to complete. Similar to Section 1, this section of pre-work involves 📒reading, 👨🏽‍💻exercises, and 📝reflection questions. Make sure to manage your time well so that should you get stuck and need help, you have plenty of time to do so and meet the deadline.
+Section 2 is estimated to take a total of 8-12 hours to complete. Similar to Section 1, this section of the project involves 📒reading, 👨🏽‍💻exercises, and 📝reflection questions. Make sure to manage your time well so that should you get stuck and need help, you have plenty of time to do so and meet the deadline.
 
 - [Vocabulary](#Vocabulary)
 - [Part A: Growth Mindset](#Part-A-Growth-Mindset)
@@ -16,7 +16,7 @@ This section will introduce a number of new terms, that may feel a bit more comp
 
 ## Get Set Up
 
-Using your terminal, open the local copy of the repository that you created during setup.  To do this, you will need to use the terminal command `cd` to change into the directory that holds the repository. Once you are in the correct directory, use the terminal command `atom .` to open the prework repository. If you are having trouble with this, see the `section1` instructions.
+Using your terminal, open the local copy of the repository that you created during setup.  To do this, you will need to use the terminal command `cd` to change into the directory that holds the repository. Once you are in the correct directory, use the terminal command `atom .` to open the project repository. If you are having trouble with this, see the `section1` instructions.
 
 ## Part A Growth Mindset
 
@@ -35,9 +35,9 @@ One of the most important concepts in computer programming is knowing when and h
 
 When you are all done with the lessons, exercises, and questions for today, you will once again use git to save your work locally, and then send your work to Github.
 
-### Open your local copy of backend_mod_1_prework
+### Open your local copy of this project
 
-Using your terminal, open your local copy of the forked repository you created during setup.  To do this, you will need to use the terminal command `cd` to enter the directory that holds the repository. Once you are in the correct directory, use the terminal command `atom .` to open the prework repository. 
+Using your terminal, open your local copy of the forked repository you created during setup.  To do this, you will need to use the terminal command `cd` to enter the directory that holds the repository. Once you are in the correct directory, use the terminal command `atom .` to open the project repository. 
 
 ### If statement and Conditional Lessons
 
@@ -80,7 +80,7 @@ You've save your work to git on your local machine, but it is not yet accessible
 git push origin main
 ```
 
-You should now be able to log in to GitHub, navigate to your remote prework repository and see all the work you did in this section!
+You should now be able to log in to GitHub, navigate to your remote repository and see all the work you did in this section!
 
 ## Index Links
 
