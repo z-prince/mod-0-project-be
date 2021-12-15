@@ -1,8 +1,8 @@
 ## Section 3 Reflection
 
-1. What are two points from the Growth Mindset article and/or video that either resonated with you, or were brand new to you?
+1. How different did your workflow feel this week, considering we asked you to follow the Pomodoro technique?
 
-1. In which ways do you currently demonstrate a Growth Mindset? In which ways do you _not_?
+1. Regarding the work you did around setting intentions in Step 1 of the Pomodoro technique - how did that go? Were you surprised by anything (did you find yourself way more focused than you realized, more distracted that you thought you'd be, estimating times accurately or totally off, etc)?
 
 1. What is a Hash, and how is it different from an Array?
 

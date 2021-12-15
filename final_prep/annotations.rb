@@ -1,43 +1,38 @@
 # Add your annotations, line by line, to the code below using code comments.
-# Try to focus on using correct technical vocabulary.
-# Use the # to create a new comment
+# To ensure that the code does what you think it does, run it in the Dev Tools!
 
-# Build a Bear
+username = "@letacodes"
+tweet = "This is rad!"
+time_stamp = "10:46pm"
+number_of_followers = 891
 
-def build_a_bear(name, age, fur, clothes, special_power)
-  greeting = "Hey partner! My name is #{name} - will you be my friend?!"
-  demographics = [name, age]
-  power_saying = "Did you know that I can #{special_power}?"
-  built_bear = {
-    'basic_info' => demographics,
-    'clothes' => clothes,
-    'exterior' => fur,
-    'cost' => 49.99,
-    'sayings' => [greeting, power_saying, "Goodnight my friend!"],
-    'is_cuddly' => true,
-  }
+output = "At #{time_stamp}, #{username} tweeted: '#{tweet}'"
+follower_check = "User #{username} has #{number_of_followers} followers."
+puts output
+puts follower_check
 
+username = "@ameseee"
+number_of_followers = 672
+
+puts follower_check
+
+# -------------------------------
+
+special_num = 20
+# Explain what would happen if specialNum is assigned to 12, 45, and 98
+
+if special_num % 15 === 0
+  puts "fizzbuzz"
+elsif special_num % 5 === 0
+  puts "fizz"
+elsif special_num % 3 === 0
+  puts "buzz"
+else
+ puts special_num
 end
 
-build_a_bear('Fluffy', 4, 'brown', ['pants', 'jorts', 'tanktop'], 'give you nightmares')
-build_a_bear('Sleepy', 2, 'purple', ['pajamas', 'sleeping cap'], 'sleeping in')
+# -------------------------------
 
-
-# FizzBuzz
-
-def fizzbuzz(num_1, num_2, range)
-  (1..range).each do |i|
-    if i % num_1 === 0 && i % num_2 === 0
-      puts 'fizzbuzz'
-    elsif i % num_1 === 0
-      puts 'fizz'
-    elsif i % num_2 === 0
-      puts 'buzz'
-    else
-      puts i
-    end
-  end
-end
-
-fizzbuzz(3, 5, 100)
-fizzbuzz(5, 8, 400)
+class_sizes = [34, 29, 27, 45]
+class_names = ["Mod 1", "Mod 2", "Mod 3", "Combined Mod 4"]
+student_birthdays = {'Amos' => 'July 21', 'Rigo' => 'March 31', 'Megan' => 6'February 2'}
