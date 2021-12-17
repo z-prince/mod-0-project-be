@@ -1,6 +1,6 @@
 # Section 1: ASKING QUESTIONS, Terminal and Ruby Foundations
 
-Section 1 is estimated to take a total of 6-10 hours to complete. Part C is the longest and most time intensive. This section of the project involves reading (both from this document as well as the 📒John Duckett book), 👩‍💻exercises, and 📝reflection questions. Make sure to manage your time well so that should you get stuck and need help, you have plenty of time to do so and meet the deadline.
+Section 1 is estimated to take a total of 6-10 hours to complete. Part C is the longest and most time intensive. This section of the project involves reading, 👩‍💻exercises, and 📝reflection questions. Make sure to manage your time well so that should you get stuck and need help, you have plenty of time to do so and meet the deadline.
 
 - [Vocabulary](#Vocabulary)
 - [Part A: Asking Questions](#Part-A-Asking-Questions)
@@ -33,7 +33,7 @@ Here's what we ask you do:
 
 ## Part A Asking Questions
 
-If you've made it into Section 2 of the project, we hope that you've heard us say loud and clear, that asking questions is a good and important thing to do! That doesn't mean it's easy, though. Some of us have educational experiences that tell us otherwise, some of us have had bad experiences when being vulnerable and asking questions, and sometimes it's just hard to determine which words to use to formulate the question itself!
+If you've made it into Section 1 of the project, we hope that you've heard us say loud and clear, that asking questions is a good and important thing to do! That doesn't mean it's easy, though. Some of us have educational experiences that tell us otherwise, some of us have had bad experiences when being vulnerable and asking questions, and sometimes it's just hard to determine which words to use to formulate the question itself!
 
 Read the three blog posts that follow:
 * [It's okay to ask questions](https://dev.to/mporam/its-okay-to-ask-questions-43hf)
@@ -69,26 +69,26 @@ In the following section, you will get a little practice using `touch` and `mkdi
 👩‍💻 Use `mkdir` and `touch` to create the directories/files in the structure illustrated below:
 
 ```sh
-|--secretLibraryProject
+|--secret_library_project
     |
     |--README.md
     |--package.json
     |
     |--lib
     |  |
-    |  |--secretLibrary.js
-    |  |--secretBook.js
-    |  |--secretLibrarian.js
+    |  |--secret_library.js
+    |  |--secret_book.js
+    |  |--secret_librarian.js
     |  |--patron.js
-    |  |--librarySystem.js
+    |  |--library_system.js
     |
     |--test
        |
-       |--secretLibrary.js
-       |--secretBook.js
-       |--secretLibrarian.js
+       |--secret_library.js
+       |--secret_book.js
+       |--secret_librarian.js
        |--patron.js
-       |--librarySystem.js
+       |--library_system.js
 ```     
 
 Don't worry about putting any text or content into these files. For now, create this structure with empty files.
@@ -96,7 +96,7 @@ Don't worry about putting any text or content into these files. For now, create 
 Your first command should be:
 
 ```bash
-mkdir secretLibraryProject
+mkdir secret_library_project
 ```
 
 Note that in the command provided above, the dashes preceding the directory name were not used in the actual directory name. The dashes are just used as a diagram aide, and is a common pattern you will see in other documentation.
@@ -132,7 +132,7 @@ cd turing
 ls
 cd 0module
 ls
-cd <name-of-repo>
+cd mod-0-project-be
 ls
 cd section1
 ls
