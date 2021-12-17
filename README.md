@@ -30,7 +30,7 @@ We will remind you of the best practices that follow from time-to-time, but to g
 
 ### Terminal
 
-We will be referencing many terminal commands throughout the project. It is recommended that you practice using terminal commands before getting started. See the terminal.md lesson located in the section1 directory.
+We will be referencing many Terminal commands throughout the project. It is recommended that you practice using commands before getting started. See the `terminal.md` lesson located in the `section1` directory.
 
 ### Project Setup
 
@@ -95,7 +95,7 @@ From here on out, all the work you do will be in your copy of this repository. O
 
 ### IMPORTANT NOTE - PLEASE READ CAREFULLY
 
-Do **NOT** work directly in the GitHub interface or use the `Edit` button to work directly from the GitHub version of your prework repository! 
+Do **NOT** work directly in the GitHub interface or use the `Edit` button to work directly from the GitHub version of your project repository! 
 
 Instead, add your work in your text editor (Atom) on your local machine (laptop) - your project involves using Git to track changes and push your work up to GitHub. We will cover how to do this in Mod 0 **and** we give explicit instructions on how to do this in each section of the project!
 
@@ -103,6 +103,6 @@ Instead, add your work in your text editor (Atom) on your local machine (laptop)
 
 Each sections `README` will walk you through the steps you need to take to save your work.
 
-To start, in your terminal, `cd` into the `section0` directory. Follow the instructions contained in the `README.md` file, and have a great time learning and exploring!
+To start, in your Terminal, `cd` into the `section0` directory. Follow the instructions contained in the `README.md` file, and have a great time learning and exploring!
 
 
