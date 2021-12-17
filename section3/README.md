@@ -72,4 +72,4 @@ Push your code to your remote repository. If you don't remember the command, loo
 - [Part A: How You Spend Your Time](#Part-A-How-You-Spend-Your-Time)
 - [Part B: Arrays and Hashes](#Part-B-Arrays-and-Hashes)
 
-🚀 [Go to Section 4](../section4)
+🚀 [Go to Final Prep](../final_prep)
