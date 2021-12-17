@@ -5,7 +5,6 @@ Section 2 is estimated to take a total of 8-12 hours to complete. Similar to Sec
 - [Vocabulary](#Vocabulary)
 - [Part A: Growth Mindset](#Part-A-Growth-Mindset)
 - [Part B: Conditionals](#Part-B-Conditionals)
-- [Part C: Methods](#Part-C-Methods)
 
 ## Vocabulary
 
