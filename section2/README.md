@@ -37,7 +37,7 @@ When you are all done with the lessons, exercises, and questions for today, you 
 
 ### Open your local copy of this project
 
-Using your terminal, open your local copy of the forked repository you created during setup.  To do this, you will need to use the terminal command `cd` to enter the directory that holds the repository. Once you are in the correct directory, use the terminal command `atom .` to open the project repository. 
+Using your Terminal, open your project repository.  To do this, you will need to use the Terminal command `cd` to enter the directory that holds the repository. Once you are in the correct directory, use the appropriate Terminal command to open the project repository. 
 
 ### If statement and Conditional Lessons
 
@@ -51,9 +51,7 @@ Using your terminal, open your local copy of the forked repository you created d
 
     - [ ] [Conditionals](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#9.-conditionals) from Ruby in 100 Minutes.
 
-1. Work through the if_statements.rb file in the section2/exercises directory.
-
-1. Answer the questions in the reflection.md file in the section2 directory.
+1. Work through the `if_statements.rb` file in the `section2/exercises` directory.
 
 ## Vocabulary
 
