@@ -61,18 +61,18 @@ When you have completed *ALL* the activities described above, follow the steps b
 1. Go to *your* prework repository on GitHub
 1. Click on `New Pull Request` per the image below:
 
-![click new pr](/images/fe_s1.png)
+![click new pr](/images/be_s1.png)
 
 <br>
 2. On the Pull Request page, make sure you see something similar to below (but with your username):
 
-![click new pr](/images/fe_s2.png)
+![click new pr](/images/be_s2.png)
 
 <br>
 3. Click on `Create New Pull Request` (circled in the image above).
 4. Enter `YOUR NAME` as the title of the pull request, and click `Create pull request` as shown below:
 
-![create new pr](/images/fe_s3.png)
+![create new pr](/images/be_s3.png)
 
 ## Next Steps
 
