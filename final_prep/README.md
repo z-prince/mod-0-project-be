@@ -1,12 +1,6 @@
-# Mod 0 Final Prep
-Congrats on making it to the Mod 0 Final Prep! Complete the final exercises below and be sure to carefully follow the Pull Request steps to submit your work!
+# Final Prep
 
-### Final Technical Prep
-
-You've learned a ton about some of the core foundations of Ruby! Show us how far you've come by completing the following exercises! You will be using your work from these exercises in your first day of Mod 1! 
-
-- [ ] Complete the [Mod Zero Hero Challenge](./mod_zero_hero.rb)
-- [ ] Complete the [Annotation Challenge](./annotations.rb)
+Congrats on making it to the Final Prep section of your Mod 0 Project! The work done in this section will directly support your readiness for the first day and weeks of Mod 1! Complete the final exercises below and be sure to carefully follow the Pull Request steps to submit your work.
 
 ### Refactor Previous Work
 
@@ -23,10 +17,16 @@ Take your time as you go back and refactor your exercises from each section. We'
 - [ ] I have refactored my `section2` exercises to the best of my ability
 - [ ] I have refactored my `section3` exercises to the best of my ability
 
+### Gearing Up for Gear Ups
+
+Gear Up is a part of our curriculum where we talk about topics such as privilege and power, and ethical issues in the tech industry. 
+- [ ] [Complete this assignment](https://github.com/turingschool/gear-up/blob/main/m0/Intro.To.GearUp.md)
+  - [ ] Add a link for your gist here: 
+
 ### Time Management Prep
 
 In Mod 0 you've learned about different techniques for managing your time at Turing. Please create a calendar for your **first 3 weeks of Mod 1**. Feel free to make your calendar fit your style, but we suggest that your calendar should include the following:
-- [ ] Standard M1 class schedule (see M1 calendar [here](https://backend.turing.io/module1/)
+- [ ] Standard Mod 1 class schedule (find the Mod 1 calendar [on the Back End curriculum site](https://backend.turing.edu/))
 - [ ] Study/Project work time (usually about 25 hours/week outside of class time)
 - [ ] Personal, Health + Wellness
 
@@ -56,32 +56,32 @@ As part of Turing's project-based learning approach, you will often be working i
 
 ## Mod 0 Project Submission
 
-When you have completed *all* the activities described above, follow the steps below to submit your Mod 0 Project.
+When you have completed *ALL* the activities described above, follow the steps below to submit your technical prework. _Note that the images may not match the exact names of repos and directories you have._
 
-1. Go to *your* project repository on GitHub
+1. Go to *your* prework repository on GitHub
 1. Click on `New Pull Request` per the image below:
 
-![new pull request](/images/be_s1.png)
+![click new pr](/images/fe_s1.png)
 
 <br>
 2. On the Pull Request page, make sure you see something similar to below (but with your username):
 
-![new pull request step 2](/images/be_s2.png)
+![click new pr](/images/fe_s2.png)
 
 <br>
 3. Click on `Create New Pull Request` (circled in the image above).
 4. Enter `YOUR NAME` as the title of the pull request, and click `Create pull request` as shown below:
 
-![new pull request](/images/be_s3.png)
+![create new pr](/images/fe_s3.png)
 
-5. Please complete the form to submit your project available [here](https://forms.gle/wxoVuhHKjrRyvGW2A). Be sure to include links for your Gear Up pre-work gist and your Mod 0 Project GitHub repository. The link to your Mod 0 Project GitHub repository will be in the format https://github.com/YOUR_GITHUB_USERNAME/mod-0-project-be. (using _your_ GitHub username)
+5. Please complete the form to submit your prework available [here](https://forms.gle/wxoVuhHKjrRyvGW2A). Be sure to include links for your Gear Up pre-work gist and your Mod 0 Project GitHub repository. The link to your Mod 0 Project GitHub repository will be in the format https://github.com/YOUR_GITHUB_USERNAME/repo-name. (using _your_ own GitHub username)
 
 ## Next Steps
 
 As you wrap up Mod 0, this is an important time to take care of life things such as doctor appointments, dog park trips, quality time with friends and family, etc. It is also important that you maintain the knowledge and skills you acquired during Mod 0 and this project. You can absolutely do both, but to do so successfully, **you need a plan**. We recommend spending, on average, 1-2 hours a day coding (totally 20-40 hours of time).
 
 What is your plan and how are you going to hold yourself to it? Specifically...
-- What are you going to work on? [Resources here](https://github.com/turingschool-examples/fe-m1-practice)
+- What are you going to work on?
 - What days are you going to work?
 - What times on those days are you going to work?
 - Where you going to be sitting/standing as you do this?
