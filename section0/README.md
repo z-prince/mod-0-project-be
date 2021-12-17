@@ -100,3 +100,12 @@ Please prepare responses to these questions to submit in the survey:
 [Please fill out this survey to provide your reflections and activities from Parts A-C as well as a few other questions to help the Career Development Team know how to support you.](https://airtable.com/shrAI3LMVuM3cDwq6)
 
 If you have any questions about this assignment, please reach out to Allison Reu Singer on Slack: @allison_reu_singer
+
+## Index Links
+
+- [Part A: Career Development Overview](#Part-A-Career-Development-Overview)
+- [Part B: Pairin Survey](#Part-B-Pairin-Survey)
+- [Part C: Competencies](#Part-C-Competencies)
+- [Deliverables](#Deliverables)
+
+🚀 [Go to Section 1](../section1)
