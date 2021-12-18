@@ -1,6 +1,6 @@
-# Mod 0 Project Guide - Back End
+# Mod 0 Project - Back End
 
-This repository will walk you through the Mod 0 Project for the Back End program at Turing.
+This repository will guide you through the Mod 0 Project for the Back End program at Turing.
 
 Each section has a folder containing a `README.md` file with instructions for the section, exercises, and questions. Please complete all the exercises and reflections.
 
