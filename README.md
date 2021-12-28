@@ -42,7 +42,7 @@ Pay close attention to small details in syntax, spacing, and language. The most 
 
 ## Terminal
 
-We will be referencing many Terminal commands throughout the project. It is recommended that you practice using commands before getting started. See the `terminal.md` lesson located in the `section1` directory.
+We will be referencing many Terminal commands throughout the project. It is recommended that you practice using commands before getting started. See the [`terminal.md` lesson](https://github.com/philmccarthy/mod-0-project-be/tree/phil-edits-2021-12/section1#part-b-terminal) located in the `section1` directory, then continue to Project Setup.
 
 ## Project Setup
 
