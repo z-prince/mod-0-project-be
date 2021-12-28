@@ -14,9 +14,7 @@ Each section has a folder containing a `README.md` file with instructions for th
 
 ## What to Expect
 
-By completing this project, you will reinforce what you learn in Mod 0, deepen your technical understanding, and reflect on your mindsets and habits. You will also be challenged to consider which of your habits will help you learn to code and which may hinder your progress.
-
-We will remind you of the best practices that follow from time-to-time, but to ground yourself in the work ahead, read them carefully.
+By completing this project, you will reinforce what you learn in Mod 0, deepen your technical understanding, and reflect on your mindsets and habits. You will also be challenged to consider which of your habits will help you become a software developer and which may hinder your progress.
 
 ## Best Practices: Learning to Write Code
 
