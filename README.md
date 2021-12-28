@@ -120,7 +120,7 @@ A new directory was created by Git with all the files from the remote repository
 $ cd mod-0-project-be
 ```
 
-Next, run this command to double check what remote repository our local repository was cloned from:
+Next, run this command to double check what remote repository your local repository was cloned from:
 
 ```
 $ git remote -v
