@@ -46,7 +46,9 @@ We will be referencing many Terminal commands throughout the project. It is reco
 
 To set this project up, you are going to *fork this repository*. Forking is when you copy a GitHub repository to your GitHub account so that you can make changes to your copy without affecting the original repository.
 
-In this scenario, the [Turing GitHub account](https://github.com/turingschool) owns this `mod-0-project-be` repository. You do not have permission to change anything in this repository, so you need your own copy to work on. In order to fork the repository, follow these steps:
+### Fork This Repository
+
+In this scenario, the [Turing GitHub account](https://github.com/turingschool) owns this `mod-0-project-be` repository. You do not have permission to change anything in this repository, so you need your own copy to work on. In order to fork this repository, follow these steps:
 
 > Note that the screenshots for the directions that follow are for a different repository, and may have a slightly different GitHub interface, which changes frequently. Be flexible and use this as a guide.
 
@@ -57,7 +59,7 @@ In this scenario, the [Turing GitHub account](https://github.com/turingschool) o
 1. On the new page, confirm you're now on _your fork_, with your username included in the URL and repository name.
 ![confirm fork](/images/be_step2.png)
 
-## Clone _Your_ Forked Repository
+### Clone _Your_ Forked Repository
 
 Now that you have your own forked repository—which is _your_ Mod 0 Project—the next thing to do is *clone the repository* to your computer.
 
@@ -67,7 +69,7 @@ Cloning is a Git operation that allows us to copy a remote Git repository to our
 ![clone your copy](/images/be_step3.png)
 1. If `Clone with HTTPS` is selected, click on `Use SSH`
 1. Click on the copy icon to copy the SSH link to your clipboard
-1. Open your terminal and follow the below steps to copy down this repository:
+1. Open the Terminal (`command + space` and begin typing Terminal) and follow these steps:
 
 Change into your Home directory:
 
@@ -133,11 +135,11 @@ origin	git@github.com:YOUR-GITHUB-USERNAME/mod-0-project-be.git (push)
 
 If you instead see references to `git@github.com:turingschool/...`, you missed an important step and need to start over.
 
-> Seeing an error that's not documented in this section? Something is likely wrong with your computer setup. This might be a good opportunity to seek help in your Mod 0 Slack channel.
+> Do you see an error that's not documented in this section? Something is likely wrong with your computer setup. This is a good opportunity to seek help in your Mod 0 Slack channel.
 
 ## Important Note: Please Read Carefully
 
-From here on out, all Mod 0 Project work will be completed on your computer using your code editor (Atom). You will make changes to your _local clone_ of your _forked repository_. In the project directions, this is referred to as your `project repository` and `Mod 0 Project`.
+From here on out, all Mod 0 Project work will be completed on your computer using Atom. You will make changes to your _local clone_ of your _forked repository_. In the project directions, this is referred to as your `project repository` and `Mod 0 Project`.
 
 The project involves using Git to "commit" your work and "push" your changes from your local clone to your remote repository (your fork) on GitHub. We also give explicit instructions on how to do this during each section of the project.
 
