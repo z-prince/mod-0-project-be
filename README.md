@@ -26,7 +26,7 @@ To ground yourself in the work ahead, read these best practices carefully.
 
 **If you are stuck for longer than 30 minutes, know that it is always ok to ask for help!** At some point, everyone struggles. Struggle is a normal, healthy part of the learning process—don't give up if you hit a hard spot. If you practice consistently and don't take shortcuts, you will be on the path to learning how to code.
 
-When you reach out for help, challenge yourself to ask clear questions and use technical vocabulary. Speaking accurately about code is a great way to help lock in technical understanding. Use [this guide](https://gist.github.com/ericweissman/fb0241e226227867b6bc70a4d49227f5) to learn the optimal way to ask for help when you get stuck!
+When you reach out for help, challenge yourself to ask clear questions and use technical vocabulary. Speaking accurately about code is a great way to help lock in technical understanding. Use [this guide](https://gist.github.com/ericweissman/fb0241e226227867b6bc70a4d49227f5) to learn the optimal way to ask for help when you get stuck.
 
 ### Process Over Product
 
@@ -109,13 +109,13 @@ origin	git@github.com:YOUR-GITHUB-USERNAME/mod-0-project-be.git (push)
 
 From here on out, all Mod 0 Project work will be completed on your computer using your code editor (Atom). You will make changes to your _local clone_ of your _forked repository_. In the project directions, this is referred to as your `project repository` and `Mod 0 Project`.
 
-The project involves using Git to track your work and "pushing" your changes from your local clone to your remote repository on GitHub. We also give explicit instructions on how to do this during each section of the project!
+The project involves using Git to track your work and "pushing" your changes from your local clone to your remote repository on GitHub. We also give explicit instructions on how to do this during each section of the project.
 
-Do **NOT** work directly in the GitHub interface or use the `Edit` button to work directly from the GitHub version of your project repository!
+Do **NOT** work directly in the GitHub interface or use the `Edit` button to work directly from the GitHub version of your project repository.
 
 ### Also Important
 
-Does the Git and GitHub process we just completed feel like a lot? Don't stress, because it is! Throughout Mod 0, you will get plenty of practice with Git and GitHub—which are different but related tools.
+Does the Git and GitHub process we just completed feel like a lot? Don't stress, because it is. Throughout Mod 0, you will get plenty of practice with Git and GitHub—which are different but related tools.
 
 The expectation by the end of Mod 0 is that you are _familiar_ with why and how we use these tools in software development.
 
