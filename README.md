@@ -51,7 +51,7 @@ In this scenario, the [Turing GitHub account](https://github.com/turingschool) o
 > Note that the screenshots for the directions that follow are for a different repository, and may have a slightly different GitHub interface, which changes frequently. Be flexible and use this as a guide.
 
 1. Make sure you are logged in to GitHub (if you are not logged in, first, log in. Then, come back to this page)
-2. Scroll to the top of [*this* page that you're reading right now](https://github.com/turingschool/mod-0-project-be).
+2. Scroll to the top of [*this* page that you're reading right now](#top).
 3. Click on `Fork` in the upper right corner of the screen
 ![click fork button](/images/be_step1.png)
 1. On the new page, confirm you're now on _your fork_, with your username included in the URL and repository name.
