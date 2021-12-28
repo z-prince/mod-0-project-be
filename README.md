@@ -70,40 +70,72 @@ Cloning is a Git operation that allows us to copy a remote Git repository to our
 1. If `Clone with HTTPS` is selected, click on `Use SSH`
 1. Click on the copy icon to copy the SSH link to your clipboard
 1. Open your terminal and follow the below steps to copy down this repository:
+
+Change into your Home directory:
+
 ```
 $ cd ~
-// This means "change into my Home directory"
+```
 
+Make a new directory where you'll organize your Turing work:
+
+```
 $ mkdir turing
+```
 
+Change directories to that new directory:
+
+```
 $ cd turing
+```
 
+Make a new directory for your Mod 0 work, then `cd` into it:
+
+```
 $ mkdir 0module
-
 $ cd 0module
+```
 
+Clone the Git repository into your current working directory:
+
+```
 $ git clone $(pbpaste)
+```
 
-// $(pbpaste) is the same as using command + v (paste from clipboard)
-// After cloning, you should see output like this:
+> Don't worry about `$(pbpaste)` in that last step. It's a Terminal command that pastes the GitHub SSH link you copied to your clipboard earlier (the same thing `command + v` does)!
 
+You should see output like this:
+
+```
 Cloning into 'mod-0-project-be'...
 remote: Enumerating objects: 678, done.
 remote: Total 678 (delta 0), reused 0 (delta 0), pack-reused 678
 Receiving objects: 100% (678/678), 237.94 KiB | 851.00 KiB/s, done.
 Resolving deltas: 100% (332/332), done.
+```
 
+A new directory was created by Git with all the files from the remote repository on GitHub! Let's `cd` into your local project repository:
+
+```
 $ cd mod-0-project-be
+```
 
+Next, run this command to double check what remote repository our local repository was cloned from:
+
+```
 $ git remote -v
+```
 
-// If you followed the instructions correctly, you should see:
+If you followed these instructions correctly, you should see:
 
+```
 origin	git@github.com:YOUR-GITHUB-USERNAME/mod-0-project-be.git (fetch)
 origin	git@github.com:YOUR-GITHUB-USERNAME/mod-0-project-be.git (push)
-
-// If you see git@github.com:turingschool/..., you missed an important step and need to start over.
 ```
+
+If you instead see references to `git@github.com:turingschool/...`, you missed an important step and need to start over.
+
+> Seeing an error that's not documented in this section? Something is likely wrong with your computer setup. This might be a good opportunity to seek help in your Mod 0 Slack channel.
 
 ## Important Note: Please Read Carefully
 
