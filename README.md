@@ -36,7 +36,7 @@ When asking for help, seek understanding rather than just `the answer` or `the s
 
 One of the best things you can do to set yourself up for success is to make sure you type out all the code examples you see in the readings and exercises in this project. *Do not* copy and paste unless instructed. The more hands-on-keyboard practice you can give yourself, the better. Copying and pasting won't help you solidify these concepts, manually typing all the code in will.
 
-### Details matter
+### Details Matter
 
 Pay close attention to small details in syntax, spacing, and language. The most detailed oriented you are as you're working, the more reliable and well-crafted your code will be. In programming, being detail oriented catches bugs _before they become bugs_.
 
