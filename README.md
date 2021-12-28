@@ -24,7 +24,7 @@ To ground yourself in the work ahead, read these best practices carefully.
 
 ### Recognize Unproductive Struggle
 
-**If you are stuck for longer than 30 minutes, know that it is always ok to ask for help!** At some point, everyone struggles. Struggle is a normal, healthy part of the learning process—don't give up if you hit a hard spot. If you practice consistently and don't take shortcuts, you will be on the path to learning how to code.
+**If you are stuck for longer than 30 minutes, ask for help!** At some point, everyone struggles. Struggle is a normal, healthy part of the learning process—don't give up if you hit a hard spot.
 
 When you reach out for help, challenge yourself to ask clear questions and use technical vocabulary. Speaking accurately about code is a great way to help lock in technical understanding. Use [this guide](https://gist.github.com/ericweissman/fb0241e226227867b6bc70a4d49227f5) to learn the optimal way to ask for help when you get stuck.
 
@@ -34,7 +34,7 @@ When asking for help, seek understanding rather than just `the answer` or `the s
 
 ### Type Every Line of Code
 
-One of the best things you can do to set yourself up for success is to make sure you type out all the code examples you see in the readings and exercises in this project. *Do not* copy and paste unless instructed. The more hands-on-keyboard practice you can give yourself, the better. Copying and pasting won't help you solidify these concepts, manually typing all the code in will.
+Copying and pasting won't help you solidify these concepts, manually typing all the code examples in the exercises will. *Do not* copy and paste unless instructed. The more hands-on-keyboard practice you can give yourself, the better.
 
 ### Details Matter
 
@@ -42,7 +42,7 @@ Pay close attention to small details in syntax, spacing, and language. The most 
 
 ## Terminal
 
-We will be referencing many Terminal commands throughout the project. It is recommended that you practice using commands before getting started. See the [`terminal.md` lesson](https://github.com/philmccarthy/mod-0-project-be/tree/phil-edits-2021-12/section1#part-b-terminal) located in the `section1` directory, then continue to Project Setup.
+We will be referencing many Terminal commands throughout the project. It is recommended that you practice using commands before getting started. See the [`terminal.md` lesson](https://github.com/philmccarthy/mod-0-project-be/tree/phil-edits-2021-12/section1#part-b-terminal) located in the `section1` directory. Then, continue to Project Setup.
 
 ## Project Setup
 
@@ -50,7 +50,7 @@ To set this project up, you are going to *fork this repository*. Forking is when
 
 In this scenario, the [Turing GitHub account](https://github.com/turingschool) owns this `mod-0-project-be` repository. You do not have permission to change anything in this repository, so you need your own copy to work on. In order to fork the repository, follow these steps:
 
->Note that the screenshots for the directions that follow are for a different repository, and may have a slightly different GitHub interface, which changes frequently. Be flexible and use this as a guide.
+> Note that the screenshots for the directions that follow are for a different repository, and may have a slightly different GitHub interface, which changes frequently. Be flexible and use this as a guide.
 
 1. Make sure you are logged in to GitHub (if you are not logged in, first, log in. Then, come back to this page)
 2. Scroll to the top of [*this* page that you're reading right now](https://github.com/turingschool/mod-0-project-be).
