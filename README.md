@@ -1,6 +1,6 @@
 # Mod 0 Project - Back End
 
-This repository will guide you through the Mod 0 Project for the Back End program at Turing.
+This repository will guide you through the Mod 0 Project for the Back End program at Turing. **Read this page thoroughly** to understand the purpose and find the instructions for getting your project setup on your computer.
 
 Each section has a folder containing a `README.md` file with instructions for the section, exercises, and questions. Please complete all the exercises and reflections.
 
@@ -40,7 +40,7 @@ Pay close attention to small details in syntax, spacing, and language. The most 
 
 ## Terminal
 
-We will be referencing many Terminal commands throughout the project. It is recommended that you practice using commands before getting started. See the [`terminal.md` lesson](https://github.com/philmccarthy/mod-0-project-be/tree/phil-edits-2021-12/section1#part-b-terminal) located in the `section1` directory. Then, continue to Project Setup.
+We will be referencing many Terminal commands throughout the project. It is recommended that you practice using commands before getting started. See the [`terminal.md` lesson](https://github.com/turingschool/mod-0-project-be/tree/main/section1#Part-B-Terminal) located in the `section1` directory. Then, continue to Project Setup.
 
 ## Project Setup
 
