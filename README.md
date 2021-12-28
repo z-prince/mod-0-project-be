@@ -141,7 +141,7 @@ If you instead see references to `git@github.com:turingschool/...`, you missed a
 
 From here on out, all Mod 0 Project work will be completed on your computer using your code editor (Atom). You will make changes to your _local clone_ of your _forked repository_. In the project directions, this is referred to as your `project repository` and `Mod 0 Project`.
 
-The project involves using Git to track your work and "pushing" your changes from your local clone to your remote repository on GitHub. We also give explicit instructions on how to do this during each section of the project.
+The project involves using Git to "commit" your work and "push" your changes from your local clone to your remote repository (your fork) on GitHub. We also give explicit instructions on how to do this during each section of the project.
 
 Do **NOT** work directly in the GitHub interface or use the `Edit` button to work directly from the GitHub version of your project repository.
 
