@@ -1,8 +1,8 @@
 # Section 0: PREPARING FOR THIS JOURNEY
 
-Section 0 is estimated to take 2-3 hours to complete. Students come to Turing to change their careers, and we will support you through that. Changing careers, especially get that first job in a new field, requires more than the technical skills you'll learn here. So, we have an intentionally designed Career Development curriculum and a team of Career Caoches who will be supporting you, starting in Mod 1.
+Section 0 is estimated to take 2-3 hours to complete. Students come to Turing to change their careers, and we will support you through that. Changing careers, especially get that first job in a new field, requires more than the technical skills you'll learn here. So, we have an intentionally designed Career Development curriculum and a team of Career Coaches who will be supporting you, starting in Mod 1.
 
-Participating in Career Development is an expectation for all students as it is just as important as learning the technical skills. There will be times when you are tempted to put this work on the backburner because you get so deep in the apps you are building, but because we care about you, we will hold you accountable to keeping up with your professional growth as well.
+Participating in Career Development is an expectation for all students as it is just as important as learning the technical skills. There will be times when you are tempted to put this work on the back-burner because you get so deep in the apps you are building, but because we care about you, we will hold you accountable to keeping up with your professional growth as well.
 
 The assignments below will give you an understanding of what type of work and support is to come, and will provide helpful information to your Career Coaches!
 
@@ -56,7 +56,7 @@ _Optional: To build an understanding of your Pairin results, here are additional
 
 ## Part 3 Competencies
 
-As you begin this new chapter of your career, the Career Development team is here to meet you where you are and help you achieve your goals. To help us understand more about your background and comfort levels with each of the 5 competencies, please complete each competency section below. You’ll submit them in the prework survey submission (see submission directions here). Each competency section should take about 10-15 minutes to complete.
+As you begin this new chapter of your career, the Career Development team is here to meet you where you are and help you achieve your goals. To help us understand more about your background and comfort levels with each of the 5 competencies, please complete each competency section below. You’ll submit them in the Career Development Mod 0 Project Submission Survey (see [submission directions](#deliverables)). Each competency section should take about 10-15 minutes to complete.
 
 ### Networking
 
@@ -67,7 +67,7 @@ The first step for networking in your new career as a software developer is to a
 
 ### Interviewing
 
-Whatever your comfort level with interviewing, an effective interview comes down to being able to communicate about who you are. Please prepare responses to these questions to submit in the prework survey:
+Whatever your comfort level with interviewing, an effective interview comes down to being able to communicate about who you are. Please prepare responses to these questions to fill into the Submission Survey:
 
 - Tell us about yourself. What is your background? Why are you pursuing a career in software development?
 - What are your goals for this career?
