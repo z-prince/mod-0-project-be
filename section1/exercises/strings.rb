@@ -12,5 +12,5 @@ p #YOUR CODE HERE
 # Write code that prints `99 bottles of pop on the wall...` to the terminal:
 # YOUR CODE HERE
 
-# Write out code to log one line from your favorite song or movie.
+# Write out code to print one line from your favorite song or movie.
 # YOUR CODE HERE
