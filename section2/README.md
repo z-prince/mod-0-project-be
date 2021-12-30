@@ -8,7 +8,7 @@ Section 2 is estimated to take a total of 8-12 hours to complete. Similar to Sec
 
 ## Vocabulary
 
-This section will introduce a number of new terms, that may feel a bit more complex. Write these terms and reserved keywords in that special spot in your notebook now. Work to hold yourself acocuntable to updating definitions _as you work through this section_.
+This section will introduce a number of new terms, that may feel a bit more complex. Write these terms and reserved keywords in that special spot in your notebook now. Work to hold yourself accountable to updating definitions _as you work through this section_.
 
 - if statements
 - method
@@ -32,11 +32,7 @@ Then, consider on the following questions. We will ask you to share some of thes
 
 One of the most important concepts in computer programming is knowing when and how to tell the computer to do either _one_ thing or _another_ thing based on a set of simple criteria.  We accomplish this with ***If-Statements*** and ***Conditionals***, which you will learn about today.
 
-When you are all done with the lessons, exercises, and questions for today, you will once again use git to save your work locally, and then send your work to Github.
-
-### Open your local copy of this project
-
-Using your Terminal, open your project repository.  To do this, you will need to use the Terminal command `cd` to enter the directory that holds the repository. Once you are in the correct directory, use the appropriate Terminal command to open the project repository. 
+When you are all done with the lessons, exercises, and questions for today, you will once again use git to save your work locally, and then send your work to GitHub.
 
 ### If statement and Conditional Lessons
 
@@ -56,11 +52,11 @@ Using your Terminal, open your project repository.  To do this, you will need to
 
 Look back at that special spot in your notebook for vocabulary. Hopefully you updated it with definitions, diagrams, and code samples as you went through this section. If not, do so now. This will be part of this sections deliverables.
 
-## Relections
+## Reflections
 
 📝 Answer the prompts in the `reflection.md` file in the `section2` directory. If you need a reminder on how to format your markdown, [this is the Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)!
 
-## Save your work in Git
+## Commit Your Work in Git
 
 When you are finished with all of the `section2` activities, use your terminal to run the following commands in order to save your work to your local Git repository.
 
@@ -71,7 +67,9 @@ When you are finished with all of the `section2` activities, use your terminal t
 
 ## Push to GitHub
 
-You've save your work to git on your local machine, but it is not yet accessible through your remote GitHub repository. Updating our remote GitHub repository with our local changes is called **pushing**. Push your code with the following command:
+You've saved your work to Git on your local machine, but your repository on GitHub doesn't reflect it yet. You update the remote GitHub repository with your new local commits when you `push` your changes.
+
+Run:
 
 ```
 git push origin main
