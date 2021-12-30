@@ -6,12 +6,12 @@ Participating in Career Development is an expectation for all students as it is 
 
 The assignments below will give you an understanding of what type of work and support is to come, and will provide helpful information to your Career Coaches!
 
-- [Part A: Career Development Overview](#Part-A-Career-Development-Overview)
-- [Part B: Pairin Survey](#Part-B-Pairin-Survey)
-- [Part C: Competencies](#Part-C-Competencies)
-- [Deliverables](#Deliverables)
+- [Part A: Career Development Overview](#part-a-)
+- [Part B: Pairin Survey](#part-b)
+- [Part C: Competencies](#part-c)
+- [Deliverables](#deliverables)
 
-## Career Development Overview
+## Part A: Career Development Overview
 
 The objective of the Career Development Team is for all Turing students to have the skills and abilities to pursue full-time employment in high fulfillment technical careers upon graduation. To do this, our curriculum focuses on five specific competencies:
 
@@ -103,9 +103,9 @@ If you have any questions about this assignment, please reach out to Allison Reu
 
 ## Index Links
 
-- [Part A: Career Development Overview](#Part-A-Career-Development-Overview)
-- [Part B: Pairin Survey](#Part-B-Pairin-Survey)
-- [Part C: Competencies](#Part-C-Competencies)
-- [Deliverables](#Deliverables)
+- [Part A: Career Development Overview](#part-a-)
+- [Part B: Pairin Survey](#part-b)
+- [Part C: Competencies](#part-c)
+- [Deliverables](#deliverables)
 
 🚀 [Go to Section 1](../section1)
