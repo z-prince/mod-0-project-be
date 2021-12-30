@@ -41,8 +41,9 @@ p students
 
 
 # YOU DO:
-# Re-assign the values to the three variables from the previous challenge to different values (but same data type).
-# print all three variables to the terminal.
+# Re-assign the values to the three variables from the previous challenge to
+# different values (but same data type).
+# Print all three variables to the terminal.
 
 
 # YOU DO:
@@ -55,5 +56,5 @@ junk_food_snacks = 8;
 # FINAL CHECK
 #-------------------
 
-# Did you run this file in your terminal to make sure everything printed out to the terminal 
-  # as you would expect? 
+# Did you run this file in your terminal to make sure everything printed out
+# to the terminal as you would expect? 
