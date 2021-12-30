@@ -2,22 +2,27 @@
 
 Section 2 is estimated to take a total of 8-12 hours to complete. Similar to Section 1, this section of the project involves 📒reading, 👨🏽‍💻exercises, and 📝reflection questions. Make sure to manage your time well so that should you get stuck and need help, you have plenty of time to do so and meet the deadline.
 
-- [Vocabulary](#Vocabulary)
-- [Part A: Growth Mindset](#Part-A-Growth-Mindset)
-- [Part B: Conditionals](#Part-B-Conditionals)
+- [Vocabulary](#vocabulary)
+- [Get Set Up](#get-set-up)
+- [Part A: Growth Mindset](#part-a-growth-mindset)
+- [Part B: Conditionals](#part-b-conditionals)
+- [Vocabulary](#vocabulary-1)
+- [Reflections](#reflections)
+- [Commit Your Work in Git](#commit-your-work-in-git)
+- [Push to GitHub](#push-to-github)
 
 ## Vocabulary
 
-This section will introduce a number of new terms, that may feel a bit more complex. Write these terms and reserved keywords in that special spot in your notebook now. Work to hold yourself accountable to updating definitions _as you work through this section_.
+This section will introduce a number of new terms, that may feel a bit more complex. Write these terms in that special spot in your notebook now. Work to hold yourself accountable to updating definitions _as you work through this section_.
 
 - if statements
 - method
 
 ## Get Set Up
 
-Using your terminal, open the local copy of the repository that you created during setup.  To do this, you will need to use the terminal command `cd` to change into the directory that holds the repository. Once you are in the correct directory, use the terminal command `atom .` to open the project repository. If you are having trouble with this, see the `section1` instructions.
+Using the Terminal, open the local copy of the repository that you created during setup.  To do this, you will need to use the terminal command `cd` to change into the directory that holds the repository. Once you are in the correct directory, use the terminal command `atom .` to open the project repository. If you are having trouble with this, see the `section1` instructions.
 
-## Part A Growth Mindset
+## Part A: Growth Mindset
 
 Read/watch one or both of the following:
 - This [2-part blog post series](https://blog.mindsetworks.com/entry/how-having-a-growth-mindset-can-help-you-learn-to-code) discusses how having a growth mindset is helpful when learning to code, and how coding promotes a growth mindset!
@@ -28,7 +33,7 @@ Then, consider on the following questions. We will ask you to share some of thes
 - In which ways do you currently demonstrate a Growth Mindset? In which ways do you _not_?
 - What is something you are good at or knowledgeable at now, that you once weren't? How did you get those skills/knowledge? Was it hard at some point?
 
-## Part B Conditionals
+## Part B: Conditionals
 
 One of the most important concepts in computer programming is knowing when and how to tell the computer to do either _one_ thing or _another_ thing based on a set of simple criteria.  We accomplish this with ***If-Statements*** and ***Conditionals***, which you will learn about today.
 
@@ -58,12 +63,12 @@ Look back at that special spot in your notebook for vocabulary. Hopefully you up
 
 ## Commit Your Work in Git
 
-When you are finished with all of the `section2` activities, use your terminal to run the following commands in order to save your work to your local Git repository.
+When you are finished with all of the `section2` activities, use the Terminal to run the following commands in order to save your work to your local Git repository.
 
-1. `$ git add section2/exercises`
-2. `$ git add section2/reflection.md`
-3. `$ git status` - you should see only green filenames - if you see any that are red, continue to `git add` those files until `git status` shows all green files.
-4. `$ git commit -m "Add Section 2 work"`
+1. `git add section2/exercises`
+2. `git add section2/reflection.md`
+3. `git status` - you should see only green filenames - if you see any that are red, continue to `git add` those files until `git status` shows all green files.
+4. `git commit -m "Add Section 2 work"`
 
 ## Push to GitHub
 
@@ -77,10 +82,6 @@ git push origin main
 
 You should now be able to log in to GitHub, navigate to your remote repository and see all the work you did in this section!
 
-## Index Links
-
-- [Vocabulary](#Vocabulary)
-- [Part A: Growth Mindset](#Part-A-Growth-Mindset)
-- [Part B: Conditionals](#Part-B-If-Statements-and-Conditionals)
+***
 
 🚀 [Go to Section 3](../section3)

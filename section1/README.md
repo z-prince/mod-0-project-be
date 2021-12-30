@@ -2,10 +2,13 @@
 
 Section 1 is estimated to take a total of 6-10 hours to complete. Part C is the longest and most time intensive. This section of the project involves reading, 👩‍💻exercises, and 📝reflection questions. Make sure to manage your time well so that should you get stuck and need help, you have plenty of time to do so and meet the deadline.
 
-- [Vocabulary](#Vocabulary)
-- [Part A: Asking Questions](#Part-A-Asking-Questions)
-- [Part B: Terminal](#Part-B-Terminal)
-- [Part C: Ruby Foundations](#Part-C-Ruby-Foundations)
+- [Vocabulary](#vocabulary)
+- [Part A: Asking Questions](#part-a-asking-questions)
+- [Part B: Terminal](#part-b-terminal)
+- [Part C: Ruby Foundations](#part-c-ruby-foundations)
+- [Exercises](#exercises)
+- [Reflections](#reflections)
+- [Commit Your Work in Git](#commit-your-work-in-git)
 
 ## Vocabulary
 
@@ -19,7 +22,7 @@ Each section of this project (and most Turing lessons) will start with a vocabul
 
 Here's what we ask you do:
 
-- Find a special spot in your notebook for vocabulary and Ruby reserved keywords. Mark it with a post-it or bookmark, so it's easy to find and come back to
+- Find a special spot in your notebook for vocabulary. Mark it with a post-it or bookmark, so it's easy to find and come back to
 - When you start a new section of the project, write down each term. Leave plenty of space for (future) notes
 - As you read and work through the material you will come across definitions and build an understanding of these terms. Write in definitions, draw diagrams, write out relevant code snippets, etc. If you complete a section and don't have a grasp on a term, that's when it's time to reach out to your Mod 0 Slack channel and collaborate!
 
@@ -140,7 +143,7 @@ At the end of the section, you will use several Git commands to save your work t
 
 ### Open your local copy of this repo in Atom
 
-Using your terminal, open the local copy of this repository. To do this, enter these commands into your terminal (this may vary slightly depending on the names of your directories):
+Using the Terminal, open the local copy of this repository. To do this, enter these commands into the Terminal (this may vary slightly depending on the names of your directories):
 
 ```
 cd ~
@@ -168,7 +171,7 @@ This will open the `section1` directory in Atom. You should be able to see the d
    
    *For ***each*** lesson* ***follow these directions closely***:
 
-    1. Create a file within your `section1` directory that will contain this lesson's work. Verify that you are within the directory by using terminal command `pwd`. If you are not, `cd` into your `section1` directory. Once you are there, use the `touch` command in your terminal to create a file. For the first lesson, name this file `ex1.rb`. For each subsequent lesson, use `ex2.rb`, `ex3.rb`, so on, so forth. 
+    1. Create a file within your `section1` directory that will contain this lesson's work. Verify that you are within the directory by using terminal command `pwd`. If you are not, `cd` into your `section1` directory. Once you are there, use the `touch` command in the Terminal to create a file. For the first lesson, name this file `ex1.rb`. For each subsequent lesson, use `ex2.rb`, `ex3.rb`, so on, so forth. 
 
     2. Work through the lesson, **typing** the code into your file, and running it in the Terminal with `ruby ex1.rb`, replacing `ex1` with the actual file name of what you'd like to run. Make sure the output you get is similar to what the lesson shows. If you get an error saying "No such file or directory", be sure to verify the directory you are located in via the Terminal- running command `ls` should show the file you are trying to run.
 
@@ -193,7 +196,7 @@ This will open the `section1` directory in Atom. You should be able to see the d
     - [ ] [Asking for Input](https://learnrubythehardway.org/book/ex11.html)
 
 
-3. Work through the [Strings](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#3.-strings) and [Numbers](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#5.-numbers) sections from Ruby in 100 Minutes. For each of these sections, open an `irb` session by typing `irb` into your terminal and type in the code snippets provided.
+3. Work through the [Strings](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#3.-strings) and [Numbers](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#5.-numbers) sections from Ruby in 100 Minutes. For each of these sections, open an `irb` session by typing `irb` into the Terminal and type in the code snippets provided.
 
 ## Exercises
 
@@ -218,8 +221,8 @@ Answer the questions within the `section1/reflections.md` file. The `.md` file e
 
 When you are finished with all of the `section1` exercises and reflections, follow these steps in order to save your work to your local git repository.
 
-1. Make sure you are in your `section1` directory. When you run `ls` in your terminal, you should see the `exercises` directory listed, as well as `README.md`, `reflection.md`, etc.
-2. In your terminal, run `git status`. You should see output like this:
+1. Make sure you are in your `section1` directory. When you run `ls` in the Terminal, you should see the `exercises` directory listed, as well as `README.md`, `reflection.md`, etc.
+2. In the Terminal, run `git status`. You should see output similar to this:
 
 ```
 On branch main
@@ -228,7 +231,7 @@ Changes not staged for commit:
   (use "git checkout -- <file>..." to discard changes in working directory)
 
 	modified:   exercises/interpolation.rb
-	modified:   exercises/numbers.rb
+	modified:   exercises/booleans.rb
 	modified:   exercises/variables.rb
 	modified:   reflection.md
 
@@ -251,7 +254,7 @@ Changes not staged for commit:
   (use "git checkout -- <file>..." to discard changes in working directory)
 
 	modified:   exercises/interpolation.rb
-	modified:   exercises/numbers.rb
+	modified:   exercises/booleans.rb
 	modified:   exercises/variables.rb
 ```
 
@@ -295,11 +298,6 @@ To github.com:your-username/mod-0-project-be.git
 
 You should now be able to log in to GitHub, navigate to your project repository, and see all the work you did in this section!
 
-## Index Links
-
-- [Vocabulary](#Vocabulary)
-- [Part A: Asking Questions](#Part-A-Asking-Questions)
-- [Part B: Terminal](#Part-B-Terminal)
-- [Part C: Ruby Foundations](#Part-C-Ruby-Foundations)
+***
 
 🚀 [Go to Section 2](../section2)

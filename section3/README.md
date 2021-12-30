@@ -4,9 +4,13 @@ Section 3 is estimated to take a total of 6-10 hours to complete. Similar to the
 
 Since Arrays are a bigger topic, it is the main focus of this section. Some review work from the first two sections has been woven in so you get opportunities to continue seeing and applying those concepts as well.
 
-- [Vocabulary](#Vocabulary)
-- [Part A: How You Spend Your Time](#Part-A-How-You-Spend-Your-Time)
-- [Part B: Arrays and Hashes](#Part-B-Arrays-and-Hashes)
+- [Vocabulary](#vocabulary)
+- [Get Set Up](#get-set-up)
+- [Part A: How You Spend Your Time](#part-a-how-you-spend-your-time)
+- [Part B: Arrays and Hashes](#part-b-arrays-and-hashes)
+- [Reflection](#reflection)
+- [Commit Your Work in Git](#commit-your-work-in-git)
+- [Push to GitHub](#push-to-github)
 
 ## Vocabulary
 
@@ -65,16 +69,12 @@ When you are all done with the lessons, exercises, and questions for today, you 
 
 ## Commit Your Work in Git
 
-When you are finished with all of the `section3` activities, use the Git workflow and commands you've learned to add and commit your work. Write a commit message that concisely summarizes what work this commit contains. Use your resources if you need a refresher!
+When you are finished with all of the `section3` activities, use the Git workflow and commands you've learned to add and commit your work. Write a commit message that concisely summarizes what work this commit contains. Use your resources if you need a refresher on how to do this.
 
 ## Push to GitHub
 
 Push your code to your remote repository. Visit your GitHub repository to verify the work you did for this section was pushed successfully!
 
-## Index Links
-
-- [Vocabulary](#Vocabulary)
-- [Part A: How You Spend Your Time](#Part-A-How-You-Spend-Your-Time)
-- [Part B: Arrays and Hashes](#Part-B-Arrays-and-Hashes)
+***
 
 🚀 [Go to Final Prep](../final_prep)
