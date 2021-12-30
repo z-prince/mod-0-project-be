@@ -11,7 +11,7 @@ The assignments below will give you an understanding of what type of work and su
 - [Part C: Competencies](#Part-C-Competencies)
 - [Deliverables](#Deliverables)
 
-## Part A Career Development Overview
+## Career Development Overview
 
 The objective of the Career Development Team is for all Turing students to have the skills and abilities to pursue full-time employment in high fulfillment technical careers upon graduation. To do this, our curriculum focuses on five specific competencies:
 
@@ -23,7 +23,7 @@ Job Search Strategies: A student’s understanding of their own goals and creati
 
 You can find all information on the curriculum and job search support [on the Career Development site](https://careerdev.turing.edu/).
 
-### Part A Action Items:
+### Action Items:
 
 1. [Bookmark the Career Development site](https://careerdev.turing.edu/). You will also be able to find this site again from both the [Back End Curriculum site](https://backend.turing.edu/) and the [Front End Curriculum site](https://frontend.turing.edu/). Spend a few minutes browsing around the site and make note of:
 - The Career Dev Team mission statement and Team members on the homepage – familiarize yourself with who your coach will be at different points in the program!
@@ -36,11 +36,11 @@ You can find all information on the curriculum and job search support [on the Ca
 - What are you excited about when it comes to professional development? 
 - What are your questions or concerns about these expectations?
 
-## Part B Pairin Survey
+## Part B: Pairin Survey
 
 [One tool we’ll be using for your professional development at Turing is the Pairin Survey](https://www.pairin.com/). This survey measures over 100 coachable and changeable skills. This activity invites you to begin building an understanding of how learning about and developing your strengths applies to your success in your new career. We will discuss the results of this survey more in-depth in your first professional development session at Turing.
 
-### Part B Action Items:
+### Action Items:
 
 1. [Take the survey using this link](https://survey.pairin.com/signup/15960/student). It will prompt you to create an account when you take it. There are 2 sections for this survey:
 - First section: Choose adjectives to answer how you currently are
@@ -54,7 +54,7 @@ _Optional: To build an understanding of your Pairin results, here are additional
 - [How the Pairin Survey compares to other assessments](https://careerdev.turing.edu/files/Survey%20Comparisons.pdf)
 - [Four Essentials of Strengths-Based Leadership](http://www.forbes.com/sites/ekaterinawalter/2013/08/27/four-essentials-of-strength-based-leadership/#76b62a91fa21) (6 minute read)
 
-## Part 3 Competencies
+## Part C: Competencies
 
 As you begin this new chapter of your career, the Career Development team is here to meet you where you are and help you achieve your goals. To help us understand more about your background and comfort levels with each of the 5 competencies, please complete each competency section below. You’ll submit them in the Career Development Mod 0 Project Submission Survey (see [submission directions](#deliverables)). Each competency section should take about 10-15 minutes to complete.
 
