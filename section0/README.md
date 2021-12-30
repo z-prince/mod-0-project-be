@@ -6,12 +6,12 @@ Participating in Career Development is an expectation for all students as it is 
 
 The assignments below will give you an understanding of what type of work and support is to come, and will provide helpful information to your Career Coaches!
 
-- [Part A: Career Development Overview](#Part-A-Career-Development-Overview)
-- [Part B: Pairin Survey](#Part-B-Pairin-Survey)
-- [Part C: Competencies](#Part-C-Competencies)
-- [Deliverables](#Deliverables)
+- [Part A: Career Development Overview](#part-a-career-development-overview)
+- [Part B: Pairin Survey](#part-b-pairin-survey)
+- [Part C: Competencies](#part-c-competencies)
+- [Deliverables](#deliverables)
 
-## Career Development Overview
+## Part A: Career Development Overview
 
 The objective of the Career Development Team is for all Turing students to have the skills and abilities to pursue full-time employment in high fulfillment technical careers upon graduation. To do this, our curriculum focuses on five specific competencies:
 
@@ -23,7 +23,7 @@ Job Search Strategies: A student’s understanding of their own goals and creati
 
 You can find all information on the curriculum and job search support [on the Career Development site](https://careerdev.turing.edu/).
 
-### Action Items:
+### Action Items
 
 1. [Bookmark the Career Development site](https://careerdev.turing.edu/). You will also be able to find this site again from both the [Back End Curriculum site](https://backend.turing.edu/) and the [Front End Curriculum site](https://frontend.turing.edu/). Spend a few minutes browsing around the site and make note of:
 - The Career Dev Team mission statement and Team members on the homepage – familiarize yourself with who your coach will be at different points in the program!
@@ -40,7 +40,7 @@ You can find all information on the curriculum and job search support [on the Ca
 
 [One tool we’ll be using for your professional development at Turing is the Pairin Survey](https://www.pairin.com/). This survey measures over 100 coachable and changeable skills. This activity invites you to begin building an understanding of how learning about and developing your strengths applies to your success in your new career. We will discuss the results of this survey more in-depth in your first professional development session at Turing.
 
-### Action Items:
+### Action Items
 
 1. [Take the survey using this link](https://survey.pairin.com/signup/15960/student). It will prompt you to create an account when you take it. There are 2 sections for this survey:
 - First section: Choose adjectives to answer how you currently are
@@ -101,11 +101,6 @@ Please prepare responses to these questions to submit in the survey:
 
 If you have any questions about this assignment, please reach out to Allison Reu Singer on Slack: @allison_reu_singer
 
-## Index Links
-
-- [Part A: Career Development Overview](#Part-A-Career-Development-Overview)
-- [Part B: Pairin Survey](#Part-B-Pairin-Survey)
-- [Part C: Competencies](#Part-C-Competencies)
-- [Deliverables](#Deliverables)
+***
 
 🚀 [Go to Section 1](../section1)
