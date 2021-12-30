@@ -56,46 +56,46 @@ p zoo
 #-------------------
 
 # LONG EXAMPLE:
-# Now that we've learned about Objects AND Arrays, we can combine them.
+# Now that we've learned about Hashes AND Arrays, we can combine them.
 
 # Check out the following example of an array of Instagram posts:
 
 
-# posts = ["image at beach", "holiday party", "adorable puppy", "video of cute baby"];
+posts = ["image at beach", "holiday party", "adorable puppy", "video of cute baby"]
 
 
-# Frankly, that was a very simplified version of the Array the Instagram developers have 
-# written and work with. Still probably slightly simplified as we don't know what their code
-# actually looks like, but it may look more like this:
+# An Array of Hashes is probably more realistic. Hashes are a data type that's great
+# for storing more complex data. Below, we can store multiple key-value pairs
+# that relate to each individual Instagram post:
 
 
 posts = [
   {
-    'image_src' => "./images/beach.png",
-    'caption' => "At the beach with my besties",
-    'timestamp' => "4:37 PM August 13, 2019",
-    'number_likes' => 0,
-    'comments' => []
+    image_src: "./images/beach.png",
+    caption: "At the beach with my besties",
+    timestamp: "4:37 PM August 13, 2019",
+    number_likes: 0,
+    comments: []
   }, 
   {
-    'image_src' => "./images/holiday-party.png",
-    'caption' => "What a great holiday party omg",
-    'timestamp' => "11:37 PM December 31, 2019",
-    'number_likes' => 13,
-    'comments' => []
+    image_src: "./images/holiday-party.png",
+    caption: "What a great holiday party omg",
+    timestamp: "11:37 PM December 31, 2019",
+    number_likes: 13,
+    comments: []
   }
 ]
 
-puts posts
-puts posts[0]
+p posts
+p posts[0]
 
 
-# The code snippet above shows an Array with 2 elements. Each element in an 
-# Object Literal. Each of those Object Literals has 4 key-value pairs. This may LOOK 
+# The code snippet above shows an Array with 2 elements. Each element in the Array is a 
+# Hash. Each of those Hashes has 4 key-value pairs. This may LOOK 
 # a bit daunting - it's OK! You don't need to be 100% comfortable with this, but it's
 # good to have some exposure before going into Mod 1.
 
 
-# YOU DO: Create an array of at least 3 EMAIL Object Literals, using the same 
-# key-value pairs you used in your email Object above.
-# Then, log the email Array to the console.
+# YOU DO: Create an array of at least 3 EMAIL Hashes, using the same 
+# key-value pairs you used in your email Hash above.
+# Then, print the email Array to the terminal.
