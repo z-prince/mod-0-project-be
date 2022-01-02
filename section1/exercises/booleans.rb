@@ -1,15 +1,16 @@
-#-------------------
-# BOOLEANS
-#-------------------
+# In the below exercises, write code that achieves
+# the desired result. To check your work, run this
+# file by entering the following command in your terminal:
+# `ruby section1/exercises/booleans.rb``
 
-# EXAMPLE: log to the console the result of 1 is equal to 2:
+# EXAMPLE: print to the terminal the result of 1 is equal to 2:
 p 1 === 2
 
-# EXAMPLE: log to the console the result of 7 is greater than 2:
+# EXAMPLE: print to the terminal the result of 7 is greater than 2:
 p 7 > 2
 
-# YOU DO: log to the console the result of "hello" is equal to "Hello":
+# YOU DO: print to the terminal the result of "hello" is equal to "Hello":
 
-# YOU DO: log to the console the result of 3 is not equal to 4:
+# YOU DO: print to the terminal the result of 3 is not equal to 4:
 
-# YOU DO: log to the console the result of 4 is less than or equal to 5:
+# YOU DO: print to the terminal the result of 4 is less than or equal to 5:

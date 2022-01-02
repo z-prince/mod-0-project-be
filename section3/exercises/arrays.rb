@@ -5,7 +5,9 @@
 # Two examples are already completed. Your task is to complete
 # any remaining prompt.
 
-
+# To check your work, run this file by entering the following 
+# command in your terminal:
+# `ruby section3/exercises/arrays.rb``
 
 
 #-------------------
@@ -14,7 +16,7 @@
 
 # EXAMPLE: write code below that will print an array of animals.
 # Store the array in a variable.
-animals = ["Zebra", "Giraffe", "Elephant"];
+animals = ["Zebra", "Giraffe", "Elephant"]
 print animals
 
 # EXAMPLE: Write code below that will print "Zebra" from the animals array
@@ -74,7 +76,7 @@ print animals[0]
 # The post itself likely has more complex data, but here is one way we can think about it:
 
 
-posts = ["image at beach", "holiday party", "adorable puppy", "video of cute baby"];
+posts = ["image at beach", "holiday party", "adorable puppy", "video of cute baby"]
 
 # YOU DO: Think of a web application you commonly use. Where do you see LISTS utilized, where arrays
 # may be storing data? Come up with 3 examples - they could be from different web applications or 
