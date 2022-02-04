@@ -185,18 +185,18 @@ This will open the `section1` directory in Atom. You should be able to see the d
 
     - [X] [Comments in Code](https://learnrubythehardway.org/book/ex2.html)
 
-    - [ ] [Numbers and Math](https://learnrubythehardway.org/book/ex3.html)
+    - [X] [Numbers and Math](https://learnrubythehardway.org/book/ex3.html)
 
-    - [ ] [Variables and Names](https://learnrubythehardway.org/book/ex4.html)
+    - [X] [Variables and Names](https://learnrubythehardway.org/book/ex4.html)
 
-    - [ ] [Strings](https://learnrubythehardway.org/book/ex5.html)
+    - [X] [Strings](https://learnrubythehardway.org/book/ex5.html)
 
-    - [ ] [More Strings](https://learnrubythehardway.org/book/ex6.html)
+    - [X] [More Strings](https://learnrubythehardway.org/book/ex6.html)
 
-    - [ ] [Asking for Input](https://learnrubythehardway.org/book/ex11.html)
+    - [X] [Asking for Input](https://learnrubythehardway.org/book/ex11.html)
 
 
-3. Work through the [Strings](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#3.-strings) and [Numbers](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#5.-numbers) sections from Ruby in 100 Minutes. For each of these sections, open an `irb` session by typing `irb` into the Terminal and type in the code snippets provided.
+3. [X] Work through the [Strings](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#3.-strings) and [Numbers](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#5.-numbers) sections from Ruby in 100 Minutes. For each of these sections, open an `irb` session by typing `irb` into the Terminal and type in the code snippets provided.
 
 ## Exercises
 
@@ -204,12 +204,12 @@ This will open the `section1` directory in Atom. You should be able to see the d
 
 Work through the files in the section1/exercises directory.  Complete them in this order:
 
-1. strings   
-1. numbers
-1. booleans   
-1. variables   
-1. interpolation
-1. loops
+1. [X] strings   
+1. [X] numbers
+1. [X] booleans   
+1. [X] variables   
+1. [X]interpolation
+1. [X]loops
 
 ## Reflections
 
