@@ -58,7 +58,7 @@ print "> "
 haiku = $stdin.gets.chomp
 
 if haiku == "yes" || haiku == "Yes" || haiku == "sure" || haiku == "Sure" || haiku == "yep" || haiku == "Yep" || haiku == "y"
-    puts "Let's select our first line."
+    puts "Let's select our first line. You are reflecting on the nature of life."
     puts "1. Gently frozen grass"
     puts "2. Wayward seasons sing"
     puts "3. Seeds sing triumphant"
@@ -76,7 +76,7 @@ if haiku == "yes" || haiku == "Yes" || haiku == "sure" || haiku == "Sure" || hai
         puts "Seeds sing triumphant, "
         oneline = "Seeds sing triumphant, "
     else 
-        puts "%s sounds wonderful but I'm not sure it works." % oneline
+        puts "%s ? Who doesn't love to freestlye?" % oneline
     end
 
     puts "Now to the second line. Remember, this is 7 syllables."
@@ -96,7 +96,8 @@ if haiku == "yes" || haiku == "Yes" || haiku == "sure" || haiku == "Sure" || hai
         puts "#{oneline} Whispering to night's darkness, "
         twoline = "#{oneline} Whispering to night's darkness, "
     else 
-        print "#{oneline} This isn't exactly a haiku, "
+        puts "#{oneline} %s. You're on a roll!" % twoline
+        twoline = oneline + twoline
     end
 
     puts "Time for the last line! You're looking great so far!"
@@ -107,13 +108,13 @@ if haiku == "yes" || haiku == "Yes" || haiku == "sure" || haiku == "Sure" || hai
     threeline = $stdin.gets.chomp
 
     if threeline == "1"
-        puts "#{twoline}Quivering through life"
+        puts "#{twoline} Quivering through life"
     elsif threeline == "2"
-        puts "#{twoline}Resting souls lie here"
+        puts "#{twoline} Resting souls lie here"
     elsif threeline == "3"
-        puts "#{twoline}Blind in life and death"
+        puts "#{twoline} Blind in life and death"
     else 
-        print "#{twoline} Hmm... let's try that again."
+        puts "#{twoline} %s. Why did I even put in responses???" % threeline
     end
 
 else 
