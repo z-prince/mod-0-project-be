@@ -10,7 +10,7 @@
   # if it is snowy, print "coat"
   # if it is icy, print "yak traks"
 
-  weather = 'snowy'
+  weather = 'rainy'
 
   if weather == 'sunny'
     p "sunscreen"
@@ -41,10 +41,16 @@
 # Experiment with manipulating the value held within num_quarters
 # to make sure both conditions can be achieved.
 
-num_quarters = 0
+num_quarters = 3
 
-puts "I have enough money for a gumball"
-puts "I don't have enough money for a gumball"
+if num_quarters == 1
+  puts "I have enough money for a gumball!"
+elsif num_quarters >= 2
+  puts "I can get several gumballs!"
+else
+  puts "I don't have enough money for a gumball!"
+end
+
 
 
 #####################
@@ -61,5 +67,33 @@ puts "I don't have enough money for a gumball"
 # Experiment with manipulating the value held within both variables
 # to make sure all above conditions output what you expect.
 
-cups_of_flour = 1
+cups_of_flour = 323423
 has_sauce = true
+
+if cups_of_flour >= 2 && has_sauce == true
+  puts "I can make pizza!"
+else
+  puts "I cannot make pizza!"
+end
+
+spagh_box = 1
+spagh_sauce = true
+
+if spagh_box >= 1 && spagh_sauce == true
+  puts "You can make spaghetti for dinner!"
+else
+  puts "Looks like we need to go to the store!"
+end
+
+def traff_light(color)
+  if color == "green"
+    puts "Go on ahead!"
+  elsif color == "yellow"
+    puts "Slow down!"
+  else
+    puts "Stop immediately."
+  end
+end
+
+traff_light("green")
+
