@@ -8,24 +8,25 @@ foods = {apples: 23, grapes: 507, eggs: 48}
 p foods
 
 # Write code that prints a hash holding zoo animal inventory:
-zoo = #YOUR CODE HERE
+zoo = {zebras: 23, lions: 15, tigers: 41, bears: 16, oh_my: 1}
 p zoo
 
 # Write code that prints all of the 'keys' of the zoo variable 
 # you created above:
-# YOUR CODE HERE
+puts zoo.keys
 
 # Write code that prints all of the 'values' of the zoo variable 
 # you created above:
-# YOUR CODE HERE
+puts zoo.values
 
 # Write code that prints the value of the first animal of the zoo variable 
 # you created above:
-# YOUR CODE HERE
+puts zoo.values[0]
 
 # Write code that adds an animal to the zoo hash. 
 # Then, print the updated hash:
-# YOUR CODE HERE
+zoo [:goats] = 13
+puts zoo
 
 
 #-------------------
@@ -38,17 +39,18 @@ p zoo
 
 # Declare a variable that stores hash. Each key should be an attribute of an email and each
 # value should be some appropriate value for that key. Work to have at least 5 key-value pairs.
-
+email = {header: 0, subject: 1, cc: 2, signature: 3, body: 4}
 # Write code that prints your email hash to the terminal.
+puts email
 
 
 # Write code that prints all of the 'keys' of the email hash 
 # you created above:
-# YOUR CODE HERE
+puts email.keys
 
 # Write code that prints all of the 'values' of the email hash 
 # you created above:
-# YOUR CODE HERE
+puts email.values
 
 
 #-------------------
@@ -84,6 +86,7 @@ posts = [
     number_likes: 13,
     comments: []
   }
+  
 ]
 
 p posts
@@ -99,3 +102,26 @@ p posts[0]
 # YOU DO: Create an array of at least 3 EMAIL Hashes, using the same 
 # key-value pairs you used in your email Hash above.
 # Then, print the email Array to the terminal.
+
+email = [
+  {
+    title: "Peer Review",
+    font: "Times New Roman",
+    timestamp: "20220114 20:32"
+  },
+  {
+    title: "Quarterly Peer Reviews",
+    font: "Times New Roman",
+    timestamp: "20220114 20:29"
+  },
+  {
+    recipients: "toomuchtime@gmail.com, nobodyusesthis@aol.com, nobodyusesmeeither@ymail.com, ilookprofessional@outlook.com",
+    font: "Times New Roman",
+    timestamp: "20220114 20:25"
+  }
+]
+
+puts email
+states = {"CO" => "Colorado", "IA" => "Iowa", "OK" => "Oklahoma"}
+
+puts states.values[1]

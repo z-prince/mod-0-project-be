@@ -30,8 +30,14 @@ Read/watch one or both of the following:
 
 Then, consider on the following questions. We will ask you to share some of these responses at the end of this section.
 - What are two points from the article or video that either resonated with you, or were brand new to you?
+
+I think the concept of a growth mindset (being malleable and not stuck as who you are) can be a stark contrast from the feelings that people have from poor family lives. There will always be times in a growth journey in which you stumble or fall, and for people previously referenced, thay may feel that it's biological because their parents or other relatives have similarly failed. This is something i've workeds to repair for a long time and although I am wary, it can still be difficult to approach at times. The world of software development is also constantly changing (which is something that I'm excited about from this field) and the way we approach eachother as human beings and being aware of eachothers hardships might conflict with personal bias. A growth mindset is imperative for both quality work in our career and quality relationships with our peers. 
+
 - In which ways do you currently demonstrate a Growth Mindset? In which ways do you _not_?
+I love learning and I've taken a huge risk by going to Turing in order to change my life and get into a field I'm passionate about. I struggle applying myself to my best capability, espescially over long periods of time, but the pomodoro technique (and subsequent chrome extension) has been an incredible help. I am also terrible at note taking and calendaring but I have no doubt Turing will aid me to develop those skills and I do take them seriously.
+
 - What is something you are good at or knowledgeable at now, that you once weren't? How did you get those skills/knowledge? Was it hard at some point?
+I have worked with unmanned aircraft for six years but when I got to my current job (Ground Control Software Technician) I was introduced to Linux Red Hat. Most UAV platforms are powered by GNU Linux but their configurations are different and I had previoiusly done more aircraft maintenance than software technician work. I was under the impression after two weeks that I was going to get fired and couldn't keep that job because no one could answer questions we had and referred to it as, "tribal knowledge" but that tribe had apparemntly moved on from the last contract (go figure). But after some time and a little bit of using big technical words to sound like I knew a lot more than I did (and a lot of Googling) I developed a good reputation and a quality understanding of how the system operated and how to fix it when it decided not to. It was devastatingly terrifying for months but now it feels stale and I want to pursue something I'm passionate about. 
 
 ## Part B: Conditionals
 
@@ -43,15 +49,15 @@ When you are all done with the lessons, exercises, and questions for today, you 
 
 1. Work through the following lessons. Any files that you create while working can be kept in today's `exercises` directory.
 
-    - [ ] [What If?](https://learnrubythehardway.org/book/ex29.html) from Learn Ruby the Hard Way.
+    - [X] [What If?](https://learnrubythehardway.org/book/ex29.html) from Learn Ruby the Hard Way.
 
-    - [ ] [Else and If](https://learnrubythehardway.org/book/ex30.html) from Learn Ruby the Hard Way.
+    - [X] [Else and If](https://learnrubythehardway.org/book/ex30.html) from Learn Ruby the Hard Way.
 
-    - [ ] [Making Decisions](https://learnrubythehardway.org/book/ex31.html) from Learn Ruby the Hard Way.
+    - [X] [Making Decisions](https://learnrubythehardway.org/book/ex31.html) from Learn Ruby the Hard Way.
 
-    - [ ] [Conditionals](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#9.-conditionals) from Ruby in 100 Minutes.
+    - [X] [Conditionals](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#9.-conditionals) from Ruby in 100 Minutes.
 
-1. Work through the `if_statements.rb` file in the `section2/exercises` directory.
+1. [X] Work through the `if_statements.rb` file in the `section2/exercises` directory.
 
 ## Vocabulary
 

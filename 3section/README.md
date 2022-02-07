@@ -33,8 +33,13 @@ One challenge learners in a new environment/content area face is feeling like th
 So this week, we would like you to start self-monitoring your progress. Before you start on the technical work, reflect back on how the project has gone so far.
 
 - Have the time estimates matched up with your experience?
+The time estimates have felt sufficient but I have allotted enough time to experimant and tinker with things which I think is a luxury I might not have if I had children or other obligations outside of my full time job.
+
 - When you sit down to start working, do you have a clear goal of what you want to accomplish and in how much time? If so, how aligned is that to what actually happens?
+I have a clear goal of what I want to get done but in no specific amount of time. That being said I have had plenty of time for leisure as well as time to accomplish my educational goals. I should be more dilligent in creating specific time blocks though to ensure I am using my time wisely as opposed to freestyling my schedule.
+
 - How do you work best - in 2 hour blocks, 4 hour blocks, etc? Do you take breaks regularly? Do you have a system to hold yourself accountable to taking breaks?
+I think I work best in closer to four hour blocks when it comes to this field. It is easy to get lose track of time for me but I also take breaks when needed. I fell like that might contribute to a lack of other responsibilities as well though. I have downloaded the pomodoro chrome extension and I have been working on incorporating it into my routine. The other night I was stuck on something in the homework and I went to make dinner and figured it out almost as soon as I got back which felt great though so I do understand the necessity for periodic breaks.
 
 You've probably heard of the Pomodoro Technique in Mod 0 classes (and elsewhere, maybe!). During this final section of the project, we are going to ask that you follow this technique. Please read about it [here](https://www.dovico.com/blog/2020/08/26/the-pomodoro-technique-how-to-manage-your-work-time-and-flow-the-easy-way/). 
 
@@ -49,17 +54,17 @@ Today you will learn about two common data types: Arrays and Hashes.
 When you are all done with the lessons, exercises, and questions for today, you will once again use git to save your work locally, and then push your work to GitHub.
 
 1. Work through the following lessons. Any files that you create while working can be kept in today's `exercises` directory. 
-    - [ ] Read about what an [array](https://learnrubythehardway.org/book/ex32.html) is from Learn Ruby the Hard Way.
+    - [X] Read about what an [array](https://learnrubythehardway.org/book/ex32.html) is from Learn Ruby the Hard Way.
 
-    - [ ] Learn how arrays are [index-based](https://learnrubythehardway.org/book/ex34.html) from Learn Ruby the Hard Way.
+    - [X] Learn how arrays are [index-based](https://learnrubythehardway.org/book/ex34.html) from Learn Ruby the Hard Way.
 
-    - [ ] [Hashes](https://learnrubythehardway.org/book/ex39.html) from Learn Ruby the Hard Way.
+    - [X] [Hashes](https://learnrubythehardway.org/book/ex39.html) from Learn Ruby the Hard Way.
 
-    - [ ] [Hashes](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#8.-hashes) from Ruby in 100 minutes.
+    - [X] [Hashes](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#8.-hashes) from Ruby in 100 minutes.
 
-1. Work through the `arrays.rb` file in the section3/exercises directory.
+1. [X] Work through the `arrays.rb` file in the section3/exercises directory.
 
-1. Work through the `hashes.rb` file in the section3/exercises directory.
+1. [X]Work through the `hashes.rb` file in the section3/exercises directory.
 
 1. Answer the questions in the `reflection.md` file in the section3 directory.
 
@@ -77,4 +82,4 @@ Push your code to your remote repository. Visit your GitHub repository to verify
 
 ***
 
-🚀 [Go to Final Prep](../final_prep)
+🚀 [Go to Final Prep](../final_prep 
