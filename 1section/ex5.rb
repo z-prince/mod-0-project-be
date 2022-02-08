@@ -25,5 +25,5 @@ puts "If I add #{age}, #{height}, and #{weight} I get #{age + height + weight}."
 # Try to write some variables that convert the inches and pounds to centimeters and kilograms. Do not just type in the measurements. Work out the math in Ruby.
 
 puts "My height in metric would be approximately #{metric_height} centimeters."
-puts "My weight in metric would be approximately #{metric_weight} kilograms."
+puts "My weight in metric would be approximately #{metric_weight.round(2)} kilograms."
 
