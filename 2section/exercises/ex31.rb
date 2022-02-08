@@ -97,7 +97,7 @@ if haiku == "yes" || haiku == "Yes" || haiku == "sure" || haiku == "Sure" || hai
         twoline = "#{oneline} Whispering to night's darkness, "
     else 
         puts "#{oneline} %s. You're on a roll!" % twoline
-        twoline = oneline + twoline
+        twoline = oneline + " " + twoline
     end
 
     puts "Time for the last line! You're looking great so far!"

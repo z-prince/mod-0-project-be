@@ -66,11 +66,11 @@ When you are all done with the lessons, exercises, and questions for today, you 
 
 1. [X]Work through the `hashes.rb` file in the section3/exercises directory.
 
-1. Answer the questions in the `reflection.md` file in the section3 directory.
+1. [X] Answer the questions in the `reflection.md` file in the section3 directory.
 
 ## Reflection
 
-📝 Answer the questions in the `reflection.md` file in the `section3` directory.
+[X] 📝 Answer the questions in the `reflection.md` file in the `section3` directory.
 
 ## Commit Your Work in Git
 
