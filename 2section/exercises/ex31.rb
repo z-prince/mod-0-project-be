@@ -108,13 +108,13 @@ if haiku == "yes" || haiku == "Yes" || haiku == "sure" || haiku == "Sure" || hai
     threeline = $stdin.gets.chomp
 
     if threeline == "1"
-        puts "#{twoline} Quivering through life"
+        puts "'#{twoline} Quivering through life'"
     elsif threeline == "2"
-        puts "#{twoline} Resting souls lie here"
+        puts "'#{twoline} Resting souls lie here'"
     elsif threeline == "3"
-        puts "#{twoline} Blind in life and death"
+        puts "'#{twoline} Blind in life and death'"
     else 
-        puts "#{twoline} %s. Why did I even put in responses???" % threeline
+        puts "'#{twoline} %s'. Why did I even put in responses???" % threeline
     end
 
 else 
