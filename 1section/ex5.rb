@@ -26,3 +26,4 @@ puts "If I add #{age}, #{height}, and #{weight} I get #{age + height + weight}."
 
 puts "My height in metric would be approximately #{metric_height} centimeters."
 puts "My weight in metric would be approximately #{metric_weight} kilograms."
+

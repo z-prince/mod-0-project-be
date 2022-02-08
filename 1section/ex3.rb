@@ -1,7 +1,7 @@
 # This line will print, "I will now count my chickens:" in the terminal.
 puts "I will now count my chickens:"
 
-# This line will print "Hens 30" in the terminal
+# This line will print, "Hens 30" in the terminal
 puts "Hens #{25.0 + 30.0 / 6.0}"
 # This line will print, "Roosters 97" in the terminal.
 puts "Roosters #{100.0 - 25.0 * 3.0 % 4.0}"

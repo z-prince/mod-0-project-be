@@ -4,7 +4,7 @@ cars = 100
 space_in_a_car = 4.0
 # This line will make the variable, "drivers" equal 30.
 drivers = 30
-# This line will makethe variable, "passengers" equal 90.
+# This line will make the variable, "passengers" equal 90.
 passengers = 90
 # This line will make the variable, "cars_not_driven" equal (cars(100) - drivers(30)) 70 
 cars_not_driven = cars - drivers
