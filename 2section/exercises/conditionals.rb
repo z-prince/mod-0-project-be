@@ -11,3 +11,6 @@ def water_status(minutes)
 end
 
 water_status(9)
+
+# Try running the method with water_status(5), water_status(7), water_status(8), and water_status(9).
+
