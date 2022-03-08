@@ -25,7 +25,7 @@ An integer is a whole number and less accurate while a floating number adds the 
 
 Interpolation is the practice of seeding a string inside of another string.
 
-`puts "My favorite animal is a #{zebra}!
+`puts "My favorite animal is a #{zebra}!"'
 
 8. What method is used to get input from a user?
 
