@@ -120,3 +120,6 @@ if haiku == "yes" || haiku == "Yes" || haiku == "sure" || haiku == "Sure" || hai
 else 
     puts "You're really missing out!"
 end
+
+
+
